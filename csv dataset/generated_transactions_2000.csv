@@ -1,0 +1,2001 @@
+Date,Description,Amount,Type
+2022-10-08,Spotify Subscription,2011,debit
+2022-05-22,Internet Bill,6824,debit
+2023-11-17,Restaurant Bill,8087,debit
+2024-01-06,Insurance Premium,6330,debit
+2022-09-12,Bus Pass Recharge,5429,debit
+2023-02-15,Freelance Payment,8263,credit
+2022-08-27,ATM Withdrawal,6247,debit
+2023-01-15,Medical Consultation,2932,debit
+2023-11-03,Bonus,55280,credit
+2023-03-27,Uber Ride,3565,debit
+2022-08-09,Spotify Subscription,1658,debit
+2022-10-27,Cafe Coffee Day,7015,debit
+2022-07-01,Loan EMI,7492,debit
+2022-05-02,Coworking Space Rent,5434,debit
+2022-10-05,Fuel Station,308,debit
+2023-11-13,Hospital Bill,5200,debit
+2022-05-11,Coworking Space Rent,4973,debit
+2023-05-11,Pet Grooming,6391,debit
+2022-01-06,Doctor Visit,6648,debit
+2024-01-15,Coworking Space Rent,1940,debit
+2022-03-05,Tuition Fee,5828,debit
+2023-01-12,YouTube Premium,6340,debit
+2022-10-18,Pet Grooming,441,debit
+2022-02-20,Exam Fee,6560,debit
+2022-11-01,Bonus,27726,credit
+2024-03-14,Uber Ride,6429,debit
+2023-02-24,Concert Ticket,3895,debit
+2023-11-08,Swiggy Food,1366,debit
+2022-07-31,YouTube Premium,1314,debit
+2023-08-28,Water Bill,2085,debit
+2023-08-06,YouTube Premium,7867,debit
+2023-02-18,Pet Grooming,9505,debit
+2022-10-19,Internet Bill,5550,debit
+2023-04-18,Cinema Ticket,7401,debit
+2022-12-22,YouTube Premium,9701,debit
+2022-12-08,Ola Cabs,5400,debit
+2023-11-13,ATM Withdrawal,6971,debit
+2022-09-15,Pet Vaccination,9167,debit
+2022-07-07,Phone Recharge,5659,debit
+2022-08-02,Restaurant Bill,4391,debit
+2022-12-23,Rent Payment,4515,debit
+2023-01-28,Rent Payment,9757,debit
+2024-03-23,Insurance Premium,150,debit
+2022-12-17,YouTube Premium,5594,debit
+2022-10-08,Credit Card Bill,2867,debit
+2022-06-11,Spotify Subscription,3072,debit
+2022-10-06,YouTube Premium,4447,debit
+2023-12-01,Internet Bill,3176,debit
+2022-06-12,Gift Purchase,107,debit
+2023-02-12,Phone Recharge,7863,debit
+2024-01-14,Credit Card Bill,419,debit
+2022-12-15,Spotify Subscription,4338,debit
+2023-08-18,Cinema Ticket,5274,debit
+2022-06-06,Phone Recharge,1255,debit
+2023-07-11,Coworking Space Rent,7737,debit
+2022-02-05,Fuel Station,6785,debit
+2023-11-29,Pet Grooming,8975,debit
+2023-01-03,Medical Pharmacy,1686,debit
+2022-04-26,Netflix Subscription,4911,debit
+2022-03-21,Mutual Fund SIP,6369,debit
+2023-07-20,Pet Vaccination,6120,debit
+2023-08-08,Freelance Payment,22129,credit
+2023-01-10,Flipkart Sale,8756,debit
+2022-07-17,Concert Ticket,2355,debit
+2023-01-15,Electricity Bill,6230,debit
+2022-04-28,Amazon Prime,9669,debit
+2023-04-03,Amazon Prime,7207,debit
+2022-08-27,Pet Vaccination,2608,debit
+2023-09-09,Bonus,69826,credit
+2023-08-02,IRCTC Train Booking,5487,debit
+2023-12-15,Credit Card Bill,1011,debit
+2022-12-29,Cinema Ticket,7835,debit
+2022-01-23,Spotify Subscription,3592,debit
+2022-05-19,Mutual Fund SIP,128,debit
+2024-03-27,ATM Withdrawal,2844,debit
+2023-08-18,Cafe Coffee Day,3516,debit
+2022-09-12,Medical Consultation,4793,debit
+2022-09-23,Water Bill,6398,debit
+2022-10-02,Concert Ticket,1739,debit
+2023-01-13,Online Course,8421,debit
+2023-11-01,Bonus,46974,credit
+2022-06-06,Phone Recharge,6922,debit
+2023-08-05,Bus Pass Recharge,8441,debit
+2023-10-04,Ola Cabs,3910,debit
+2023-11-13,ATM Withdrawal,1419,debit
+2024-03-07,ATM Withdrawal,9644,debit
+2022-09-16,Amazon Shopping,4271,debit
+2022-07-24,Cinema Ticket,6139,debit
+2024-01-05,Internet Bill,3058,debit
+2023-08-29,Restaurant Bill,3936,debit
+2022-05-08,Spotify Subscription,2953,debit
+2022-06-02,Cafe Coffee Day,6673,debit
+2023-11-02,IRCTC Train Booking,3379,debit
+2022-04-18,Netflix Subscription,6919,debit
+2022-07-30,Insurance Premium,3696,debit
+2024-01-31,Bonus,5952,credit
+2024-03-18,Phone Recharge,7341,debit
+2022-09-13,Spotify Subscription,3354,debit
+2022-12-15,Mobile Accessories,5511,debit
+2022-03-30,Phone Recharge,4248,debit
+2023-10-25,Online Course,8578,debit
+2022-09-27,Concert Ticket,9111,debit
+2022-11-15,Ola Cabs,3645,debit
+2023-06-24,Coworking Space Rent,5576,debit
+2022-11-15,ATM Withdrawal,8252,debit
+2023-09-13,Bus Pass Recharge,2628,debit
+2024-03-12,Mutual Fund SIP,4938,debit
+2024-02-13,Cinema Ticket,4063,debit
+2023-08-30,Exam Fee,3476,debit
+2023-08-26,Investment Return,25464,credit
+2023-07-31,Electricity Bill,8326,debit
+2023-04-03,Credit Card Bill,8783,debit
+2022-09-09,Medical Consultation,2820,debit
+2024-01-28,Online Course,8949,debit
+2023-01-30,Hospital Bill,5431,debit
+2022-01-01,Phone Recharge,297,debit
+2022-12-30,Bonus,51401,credit
+2022-09-10,Netflix Subscription,9989,debit
+2022-06-02,Medical Consultation,3574,debit
+2022-07-16,Medical Pharmacy,6930,debit
+2023-08-09,Mutual Fund SIP,297,debit
+2023-03-07,Starbucks Coffee,8137,debit
+2023-06-13,Domino's Pizza,4832,debit
+2024-02-17,Ola Cabs,3375,debit
+2022-08-28,Loan EMI,3197,debit
+2022-03-27,Tuition Fee,2018,debit
+2023-07-26,Pet Grooming,8096,debit
+2022-04-10,Online Course,1749,debit
+2023-12-07,Doctor Visit,3043,debit
+2023-06-15,Coworking Space Rent,4622,debit
+2023-09-15,Exam Fee,3711,debit
+2024-01-29,Uber Ride,1597,debit
+2023-02-09,Flipkart Sale,1153,debit
+2023-07-18,Medical Pharmacy,3163,debit
+2023-06-09,Bus Pass Recharge,8036,debit
+2024-02-24,Pet Grooming,929,debit
+2023-06-14,Ola Cabs,8042,debit
+2022-07-23,Loan EMI,8855,debit
+2023-07-08,ATM Withdrawal,1910,debit
+2022-01-13,Tuition Fee,7114,debit
+2023-01-22,Bus Pass Recharge,3175,debit
+2024-01-14,YouTube Premium,567,debit
+2023-05-02,Credit Card Bill,760,debit
+2022-08-08,Loan EMI,5521,debit
+2023-07-10,IRCTC Train Booking,3530,debit
+2022-07-10,Mutual Fund SIP,5455,debit
+2022-01-31,Hospital Bill,4844,debit
+2022-11-13,Credit Card Bill,7092,debit
+2023-10-30,Rent Payment,4985,debit
+2023-09-24,Phone Recharge,6630,debit
+2024-01-25,Clothing Store,8220,debit
+2024-01-13,Insurance Premium,9482,debit
+2022-06-26,Phone Recharge,4617,debit
+2023-11-16,Amazon Prime,5301,debit
+2024-01-24,Cinema Ticket,9401,debit
+2022-11-14,Online Course,9071,debit
+2024-02-14,Amazon Shopping,1979,debit
+2022-11-24,Bus Pass Recharge,5295,debit
+2023-07-08,Internet Bill,6227,debit
+2023-10-20,Concert Ticket,9356,debit
+2023-09-12,Doctor Visit,517,debit
+2022-06-03,Mobile Accessories,9205,debit
+2022-07-18,Amazon Prime,1104,debit
+2023-08-02,IRCTC Train Booking,9210,debit
+2022-06-01,Electricity Bill,7493,debit
+2022-04-25,Amusement Park,6907,debit
+2022-04-03,Clothing Store,7264,debit
+2022-09-09,Domino's Pizza,4460,debit
+2023-01-08,Medical Consultation,9975,debit
+2023-12-13,Concert Ticket,1850,debit
+2022-01-22,Hospital Bill,1947,debit
+2024-03-15,Concert Ticket,119,debit
+2023-04-25,Gift Purchase,808,debit
+2022-01-06,Tuition Fee,8182,debit
+2022-12-11,Home Cleaning Services,2938,debit
+2024-02-04,Medical Consultation,7445,debit
+2022-05-19,Loan EMI,8945,debit
+2023-07-22,Phone Recharge,6513,debit
+2022-04-10,YouTube Premium,140,debit
+2023-05-16,Phone Recharge,7308,debit
+2022-11-03,Tuition Fee,4364,debit
+2024-03-17,Investment Return,39711,credit
+2022-07-20,Home Cleaning Services,3289,debit
+2023-12-08,Freelance Payment,54703,credit
+2023-08-17,Exam Fee,5490,debit
+2023-03-29,Doctor Visit,3514,debit
+2022-09-08,Credit Card Bill,7983,debit
+2024-03-14,Internet Bill,9803,debit
+2023-11-06,Restaurant Bill,4406,debit
+2022-11-18,Internet Bill,4822,debit
+2022-06-14,Water Bill,2141,debit
+2024-01-27,Investment Return,32165,credit
+2023-03-28,Bus Pass Recharge,5490,debit
+2022-04-22,Amazon Shopping,675,debit
+2022-02-23,Water Bill,7232,debit
+2023-02-15,Concert Ticket,3127,debit
+2024-03-10,Home Cleaning Services,1526,debit
+2024-03-10,Insurance Premium,3165,debit
+2023-04-03,Ola Cabs,1669,debit
+2022-12-18,Mutual Fund SIP,3256,debit
+2023-07-21,Amazon Shopping,2908,debit
+2023-11-22,Exam Fee,2400,debit
+2024-01-10,Coworking Space Rent,7078,debit
+2024-03-22,Fuel Station,3212,debit
+2022-05-28,Coworking Space Rent,8256,debit
+2023-03-08,Home Cleaning Services,4463,debit
+2022-11-17,Coworking Space Rent,896,debit
+2023-01-06,Ola Cabs,7682,debit
+2022-02-26,Ola Cabs,3967,debit
+2024-03-19,Mutual Fund SIP,1640,debit
+2022-09-12,Medical Pharmacy,7841,debit
+2023-07-06,Hospital Bill,1353,debit
+2023-04-04,IRCTC Train Booking,8086,debit
+2022-12-14,Medical Pharmacy,6596,debit
+2024-02-08,Zomato Order,2426,debit
+2023-08-25,Hospital Bill,4628,debit
+2022-05-10,Pet Vaccination,5525,debit
+2023-04-17,Rent Payment,5211,debit
+2022-07-25,Freelance Payment,42809,credit
+2022-05-05,Starbucks Coffee,3472,debit
+2024-02-28,Concert Ticket,9886,debit
+2023-12-27,Cinema Ticket,481,debit
+2023-01-16,YouTube Premium,8020,debit
+2022-02-07,Flipkart Sale,8404,debit
+2023-12-01,ATM Withdrawal,7602,debit
+2022-11-12,Online Course,6884,debit
+2022-02-14,Amazon Prime,5530,debit
+2024-03-31,Investment Return,10677,credit
+2023-06-19,Electricity Bill,402,debit
+2022-09-23,Medical Pharmacy,1790,debit
+2022-04-30,Bookstore,5589,debit
+2022-10-26,Flipkart Sale,9966,debit
+2024-02-18,IRCTC Train Booking,6156,debit
+2022-02-06,Bonus,33486,credit
+2022-11-24,Tuition Fee,9605,debit
+2022-10-17,ATM Withdrawal,3535,debit
+2022-01-31,Bus Pass Recharge,7190,debit
+2023-12-16,Insurance Premium,4709,debit
+2023-08-17,Netflix Subscription,5761,debit
+2023-06-18,Exam Fee,439,debit
+2023-03-08,Freelance Payment,5494,credit
+2023-11-02,Starbucks Coffee,3175,debit
+2023-11-06,Flipkart Sale,5487,debit
+2022-01-24,Uber Ride,8065,debit
+2022-02-09,Exam Fee,364,debit
+2023-03-09,ATM Withdrawal,1908,debit
+2024-02-29,YouTube Premium,9930,debit
+2023-06-29,Mutual Fund SIP,2846,debit
+2023-11-17,Clothing Store,1310,debit
+2022-11-30,Spotify Subscription,7033,debit
+2023-11-28,Amazon Shopping,6278,debit
+2023-07-05,Insurance Premium,8689,debit
+2022-02-11,Gift Purchase,2999,debit
+2023-07-18,Exam Fee,9207,debit
+2022-01-17,Ola Cabs,8449,debit
+2023-10-15,Starbucks Coffee,4728,debit
+2023-10-26,Bonus,38489,credit
+2022-06-02,Bonus,19235,credit
+2022-10-07,Freelance Payment,34613,credit
+2023-10-29,Mutual Fund SIP,8594,debit
+2023-09-16,Ola Cabs,8780,debit
+2022-09-11,Exam Fee,1496,debit
+2022-10-19,IRCTC Train Booking,8402,debit
+2023-12-25,Amusement Park,7510,debit
+2022-04-06,YouTube Premium,4850,debit
+2022-09-24,Mutual Fund SIP,7096,debit
+2023-05-14,Gift Purchase,2037,debit
+2022-12-02,Fuel Station,2137,debit
+2022-01-31,Cafe Coffee Day,3368,debit
+2023-04-08,Mutual Fund SIP,4767,debit
+2023-04-11,Investment Return,46860,credit
+2022-07-26,Phone Recharge,3228,debit
+2023-12-25,Exam Fee,106,debit
+2022-07-11,YouTube Premium,4065,debit
+2024-01-19,Loan EMI,2257,debit
+2022-03-26,Mutual Fund SIP,8952,debit
+2022-07-31,Salary,59048,credit
+2022-02-04,Concert Ticket,5814,debit
+2022-10-29,Swiggy Food,7649,debit
+2022-07-03,Clothing Store,7021,debit
+2023-01-19,Ola Cabs,1566,debit
+2022-09-30,Amazon Shopping,9841,debit
+2024-01-24,Investment Return,8632,credit
+2023-01-15,Water Bill,3524,debit
+2022-02-15,Bus Pass Recharge,6640,debit
+2023-01-14,Domino's Pizza,632,debit
+2023-12-29,Water Bill,6330,debit
+2023-06-11,Flipkart Sale,7076,debit
+2023-04-18,Gift Purchase,8203,debit
+2023-12-21,Amazon Prime,8130,debit
+2022-02-28,IRCTC Train Booking,4151,debit
+2022-07-01,Rent Payment,3241,debit
+2022-01-31,Insurance Premium,4377,debit
+2024-01-20,Insurance Premium,5691,debit
+2023-11-17,Tuition Fee,4325,debit
+2023-06-25,Bookstore,7442,debit
+2023-02-20,Fuel Station,7127,debit
+2022-05-24,Doctor Visit,9739,debit
+2022-12-25,Online Course,2096,debit
+2023-12-20,ATM Withdrawal,1779,debit
+2023-01-26,Exam Fee,2076,debit
+2023-10-26,Exam Fee,6389,debit
+2022-10-21,Coworking Space Rent,7552,debit
+2022-08-04,Exam Fee,4100,debit
+2022-10-29,Uber Ride,1772,debit
+2023-04-08,Credit Card Bill,897,debit
+2022-04-19,Cinema Ticket,9976,debit
+2024-01-03,Online Course,3351,debit
+2022-05-31,Amusement Park,7141,debit
+2023-05-30,Tuition Fee,8836,debit
+2023-12-09,Amazon Prime,5667,debit
+2022-04-12,Bonus,10681,credit
+2024-01-21,Fuel Station,2223,debit
+2024-01-10,Doctor Visit,3718,debit
+2024-01-17,Water Bill,9675,debit
+2022-10-14,Salary,56886,credit
+2022-03-16,Concert Ticket,159,debit
+2022-04-25,Phone Recharge,1405,debit
+2024-01-15,Clothing Store,6893,debit
+2022-01-12,Mutual Fund SIP,2809,debit
+2022-06-11,Amazon Shopping,8576,debit
+2023-01-03,Bonus,67005,credit
+2024-01-03,Mobile Accessories,5673,debit
+2023-07-20,Pet Grooming,8290,debit
+2022-12-30,Amazon Prime,1039,debit
+2022-01-18,Insurance Premium,8239,debit
+2022-07-21,Credit Card Bill,9310,debit
+2024-03-01,Amusement Park,2017,debit
+2022-07-13,Concert Ticket,221,debit
+2023-11-11,Phone Recharge,157,debit
+2024-03-26,Clothing Store,7987,debit
+2022-04-26,Salary,49701,credit
+2022-03-12,ATM Withdrawal,6532,debit
+2022-03-14,Salary,67971,credit
+2024-03-12,YouTube Premium,8953,debit
+2022-12-21,Online Course,2603,debit
+2023-06-05,Water Bill,9674,debit
+2024-02-14,Swiggy Food,8761,debit
+2023-01-02,Salary,11036,credit
+2022-07-17,Coworking Space Rent,4047,debit
+2022-06-03,Doctor Visit,3599,debit
+2024-03-28,Spotify Subscription,3425,debit
+2023-01-30,Amazon Prime,3184,debit
+2023-07-18,Coworking Space Rent,7419,debit
+2022-11-28,Medical Consultation,9054,debit
+2022-05-11,Exam Fee,6067,debit
+2022-02-11,Amusement Park,1133,debit
+2023-05-23,Restaurant Bill,1277,debit
+2024-03-16,Rent Payment,3205,debit
+2023-10-05,Cinema Ticket,2657,debit
+2023-08-04,Coworking Space Rent,7937,debit
+2022-08-08,Investment Return,42991,credit
+2022-02-15,Phone Recharge,1347,debit
+2022-05-31,Investment Return,27644,credit
+2023-02-07,Netflix Subscription,3819,debit
+2023-07-24,Restaurant Bill,1730,debit
+2022-05-05,Mutual Fund SIP,2394,debit
+2023-10-18,Coworking Space Rent,2876,debit
+2023-07-12,Electricity Bill,8464,debit
+2023-07-19,Amusement Park,8567,debit
+2022-03-18,Coworking Space Rent,5731,debit
+2022-03-31,Amusement Park,3033,debit
+2023-07-13,Mobile Accessories,1390,debit
+2022-11-02,Insurance Premium,1873,debit
+2023-04-19,Water Bill,5438,debit
+2022-01-12,Amusement Park,8340,debit
+2023-04-13,Home Cleaning Services,9148,debit
+2022-06-20,Cinema Ticket,2574,debit
+2024-03-24,Bonus,55703,credit
+2024-02-27,Netflix Subscription,1347,debit
+2022-07-14,Ola Cabs,9786,debit
+2022-03-12,Mutual Fund SIP,9693,debit
+2023-11-27,Spotify Subscription,3864,debit
+2023-05-27,IRCTC Train Booking,2247,debit
+2023-05-02,Concert Ticket,8745,debit
+2022-03-17,Spotify Subscription,1847,debit
+2023-01-12,Bonus,65038,credit
+2024-01-14,Swiggy Food,6934,debit
+2022-02-18,Electricity Bill,2774,debit
+2022-07-27,Flipkart Sale,1708,debit
+2022-10-29,Online Course,9499,debit
+2022-11-12,Netflix Subscription,5278,debit
+2023-12-10,Insurance Premium,9061,debit
+2023-04-13,Freelance Payment,45732,credit
+2022-11-13,Credit Card Bill,9683,debit
+2023-10-08,Coworking Space Rent,2021,debit
+2022-01-27,Online Course,9292,debit
+2023-01-09,Hospital Bill,9090,debit
+2023-07-16,Netflix Subscription,2861,debit
+2024-03-21,Coworking Space Rent,1101,debit
+2024-02-16,Credit Card Bill,6865,debit
+2023-07-16,Spotify Subscription,6107,debit
+2022-09-09,Credit Card Bill,6789,debit
+2023-07-28,Internet Bill,6843,debit
+2023-07-25,Loan EMI,1674,debit
+2022-11-26,Coworking Space Rent,7894,debit
+2023-06-06,Clothing Store,7244,debit
+2023-01-10,Rent Payment,3483,debit
+2023-10-27,Ola Cabs,3524,debit
+2022-03-04,Phone Recharge,3247,debit
+2022-09-27,Amusement Park,2025,debit
+2024-02-21,Phone Recharge,6024,debit
+2022-08-23,Insurance Premium,4585,debit
+2023-05-12,Pet Vaccination,2232,debit
+2023-04-12,Insurance Premium,1915,debit
+2023-09-28,Pet Vaccination,4253,debit
+2023-01-09,Concert Ticket,5262,debit
+2023-09-29,Phone Recharge,8141,debit
+2022-12-29,Cinema Ticket,7036,debit
+2024-02-01,Online Course,9267,debit
+2022-09-08,Tuition Fee,9876,debit
+2023-09-25,Concert Ticket,8107,debit
+2023-07-23,Starbucks Coffee,8476,debit
+2023-11-20,Concert Ticket,7593,debit
+2022-06-10,Fuel Station,8400,debit
+2023-08-19,Clothing Store,9443,debit
+2023-03-31,Cinema Ticket,8361,debit
+2022-02-16,Loan EMI,3055,debit
+2024-02-16,Medical Pharmacy,8253,debit
+2023-06-29,Rent Payment,2123,debit
+2022-05-19,Coworking Space Rent,5417,debit
+2023-04-21,Domino's Pizza,3262,debit
+2023-07-15,Cinema Ticket,2885,debit
+2022-11-07,Freelance Payment,48213,credit
+2023-06-07,Medical Consultation,5365,debit
+2022-03-30,Tuition Fee,6916,debit
+2024-01-15,Insurance Premium,3628,debit
+2024-03-02,Hospital Bill,3471,debit
+2023-01-25,Fuel Station,7312,debit
+2023-10-23,Loan EMI,3664,debit
+2023-01-29,Medical Pharmacy,4823,debit
+2024-01-17,Bookstore,9539,debit
+2024-03-15,Exam Fee,5203,debit
+2023-10-19,Bus Pass Recharge,9196,debit
+2022-02-20,Rent Payment,7399,debit
+2023-09-01,Rent Payment,5988,debit
+2023-07-07,Salary,9820,credit
+2022-05-14,Phone Recharge,6629,debit
+2022-07-18,Mutual Fund SIP,2472,debit
+2022-10-18,Doctor Visit,3826,debit
+2022-09-27,Zomato Order,4862,debit
+2022-01-31,Phone Recharge,8310,debit
+2023-10-19,Coworking Space Rent,2798,debit
+2022-09-03,Amusement Park,2232,debit
+2023-03-02,Medical Consultation,1988,debit
+2023-06-25,Amazon Prime,7040,debit
+2022-06-08,Gift Purchase,869,debit
+2023-08-31,Fuel Station,8776,debit
+2023-11-27,Freelance Payment,15991,credit
+2022-10-22,Phone Recharge,7380,debit
+2023-04-25,Rent Payment,5512,debit
+2022-12-03,Restaurant Bill,2542,debit
+2024-03-05,Investment Return,61770,credit
+2022-06-22,Hospital Bill,7983,debit
+2024-02-28,Gift Purchase,695,debit
+2024-02-25,Internet Bill,5963,debit
+2023-12-06,Amusement Park,288,debit
+2024-02-11,Tuition Fee,7650,debit
+2022-07-06,Phone Recharge,7360,debit
+2022-03-28,Concert Ticket,8692,debit
+2024-03-07,Netflix Subscription,1108,debit
+2022-01-29,Spotify Subscription,4444,debit
+2024-02-12,Bus Pass Recharge,467,debit
+2022-12-31,Loan EMI,5152,debit
+2023-04-24,Bonus,64246,credit
+2024-02-21,Amazon Prime,9504,debit
+2022-08-18,Water Bill,9833,debit
+2022-06-04,Rent Payment,6002,debit
+2023-03-09,Cinema Ticket,9769,debit
+2023-07-29,Freelance Payment,65659,credit
+2023-05-17,Ola Cabs,8408,debit
+2022-04-16,Hospital Bill,5761,debit
+2022-10-24,Water Bill,4417,debit
+2022-06-18,Online Course,5458,debit
+2022-05-21,Amusement Park,5289,debit
+2022-03-13,Flipkart Sale,924,debit
+2022-02-07,Loan EMI,6963,debit
+2022-10-15,Phone Recharge,9893,debit
+2023-03-10,Bonus,42539,credit
+2023-09-21,Exam Fee,484,debit
+2022-04-24,Cinema Ticket,9023,debit
+2023-03-02,Swiggy Food,8623,debit
+2023-12-24,Tuition Fee,5404,debit
+2023-03-27,Amazon Prime,787,debit
+2023-05-07,Cinema Ticket,5139,debit
+2023-03-28,Internet Bill,5889,debit
+2022-12-27,Investment Return,10164,credit
+2024-01-11,Gift Purchase,9704,debit
+2022-04-03,Amazon Prime,8776,debit
+2023-01-26,Investment Return,57911,credit
+2022-03-07,IRCTC Train Booking,6830,debit
+2024-02-12,Doctor Visit,8806,debit
+2022-09-07,Coworking Space Rent,5384,debit
+2024-01-30,YouTube Premium,5692,debit
+2022-09-15,Swiggy Food,5973,debit
+2023-03-19,Netflix Subscription,937,debit
+2023-07-23,Bookstore,4973,debit
+2022-07-13,Bonus,32744,credit
+2023-05-18,Amazon Prime,1146,debit
+2024-01-06,Loan EMI,8110,debit
+2023-01-18,Insurance Premium,3114,debit
+2024-02-16,Bonus,64464,credit
+2023-06-28,Clothing Store,955,debit
+2022-10-03,Hospital Bill,2347,debit
+2024-03-23,Medical Consultation,8182,debit
+2022-01-22,Internet Bill,1670,debit
+2022-08-18,Tuition Fee,8839,debit
+2024-03-30,Investment Return,68064,credit
+2022-10-05,Concert Ticket,9046,debit
+2023-09-19,Ola Cabs,5909,debit
+2023-04-06,Medical Consultation,5004,debit
+2022-01-07,Online Course,8411,debit
+2023-03-30,Swiggy Food,8801,debit
+2024-01-20,Starbucks Coffee,8389,debit
+2022-07-13,Amusement Park,4690,debit
+2022-11-03,Medical Consultation,9266,debit
+2022-03-17,Netflix Subscription,4778,debit
+2022-05-21,Flipkart Sale,3986,debit
+2022-11-29,Electricity Bill,5506,debit
+2023-01-13,Online Course,7353,debit
+2023-08-23,YouTube Premium,295,debit
+2023-06-30,Hospital Bill,1948,debit
+2022-12-20,Medical Pharmacy,4863,debit
+2022-12-02,ATM Withdrawal,5177,debit
+2022-12-19,Loan EMI,3839,debit
+2023-02-15,Electricity Bill,5663,debit
+2022-05-13,Zomato Order,5055,debit
+2023-06-13,Medical Consultation,4273,debit
+2023-05-20,IRCTC Train Booking,4145,debit
+2022-09-01,Rent Payment,4648,debit
+2024-02-10,Fuel Station,4961,debit
+2023-11-08,Freelance Payment,69874,credit
+2022-11-04,Concert Ticket,7051,debit
+2023-01-27,Zomato Order,442,debit
+2023-09-30,Loan EMI,778,debit
+2023-06-01,Coworking Space Rent,690,debit
+2022-08-14,Concert Ticket,4417,debit
+2022-11-06,Bookstore,4380,debit
+2023-12-30,Rent Payment,548,debit
+2022-01-18,Pet Vaccination,8500,debit
+2023-03-06,Cafe Coffee Day,8713,debit
+2024-01-15,Loan EMI,3961,debit
+2023-09-12,Spotify Subscription,5431,debit
+2023-06-21,Hospital Bill,2324,debit
+2023-08-25,Cinema Ticket,3191,debit
+2023-10-20,ATM Withdrawal,2438,debit
+2024-01-27,Phone Recharge,5921,debit
+2023-08-19,Spotify Subscription,5407,debit
+2022-02-26,Medical Consultation,361,debit
+2022-04-27,Pet Vaccination,5908,debit
+2022-10-16,Water Bill,2774,debit
+2022-07-28,Flipkart Sale,5018,debit
+2024-01-01,Water Bill,8714,debit
+2022-11-17,Insurance Premium,4679,debit
+2022-04-26,Exam Fee,7443,debit
+2022-02-27,Pet Grooming,3046,debit
+2023-07-05,Mobile Accessories,8934,debit
+2023-04-06,Coworking Space Rent,4324,debit
+2022-06-12,Amusement Park,306,debit
+2022-07-27,Coworking Space Rent,9678,debit
+2022-10-14,Hospital Bill,4505,debit
+2024-03-06,Loan EMI,3006,debit
+2022-11-16,Investment Return,28049,credit
+2022-03-14,Uber Ride,4873,debit
+2022-11-13,Pet Grooming,6352,debit
+2022-06-03,Online Course,218,debit
+2022-02-06,Insurance Premium,5271,debit
+2023-12-03,Amazon Shopping,2467,debit
+2022-12-21,Doctor Visit,3212,debit
+2023-07-09,Online Course,226,debit
+2023-12-23,Mobile Accessories,5413,debit
+2022-03-05,Exam Fee,6975,debit
+2023-01-13,Medical Consultation,1713,debit
+2022-04-23,Medical Consultation,7241,debit
+2022-07-25,Clothing Store,9738,debit
+2022-08-20,Coworking Space Rent,148,debit
+2023-10-04,Swiggy Food,5530,debit
+2024-02-12,Amazon Prime,8097,debit
+2024-01-07,Cinema Ticket,9293,debit
+2023-11-26,Online Course,6652,debit
+2023-12-07,Coworking Space Rent,2101,debit
+2023-01-08,Amusement Park,4337,debit
+2023-10-24,Salary,61808,credit
+2024-03-22,Investment Return,31779,credit
+2023-01-23,Pet Vaccination,7751,debit
+2023-01-08,Starbucks Coffee,1930,debit
+2022-10-07,IRCTC Train Booking,5114,debit
+2022-10-24,Uber Ride,152,debit
+2022-03-07,Netflix Subscription,5949,debit
+2022-12-22,Hospital Bill,8543,debit
+2023-01-02,Swiggy Food,7311,debit
+2023-08-27,Hospital Bill,7918,debit
+2022-09-16,Bonus,40903,credit
+2023-08-27,Doctor Visit,6744,debit
+2022-07-26,Bus Pass Recharge,5512,debit
+2023-08-13,Credit Card Bill,5566,debit
+2023-04-05,Amazon Prime,3299,debit
+2023-01-04,Ola Cabs,6556,debit
+2022-03-21,Amusement Park,4333,debit
+2022-12-10,Doctor Visit,9606,debit
+2024-01-13,Medical Consultation,4798,debit
+2023-05-02,Ola Cabs,6622,debit
+2023-02-09,Domino's Pizza,2028,debit
+2022-08-10,Phone Recharge,3482,debit
+2023-07-05,Rent Payment,8303,debit
+2022-08-08,Mutual Fund SIP,1163,debit
+2023-02-11,Bookstore,9755,debit
+2023-08-01,Bonus,39718,credit
+2023-12-02,Home Cleaning Services,5636,debit
+2023-04-25,Bonus,36924,credit
+2023-10-09,Clothing Store,2110,debit
+2023-11-23,Cafe Coffee Day,458,debit
+2022-02-25,Hospital Bill,4830,debit
+2022-06-26,Online Course,5570,debit
+2024-02-22,Mutual Fund SIP,9867,debit
+2023-09-30,Coworking Space Rent,7934,debit
+2022-04-22,Swiggy Food,3918,debit
+2022-11-16,Coworking Space Rent,4732,debit
+2022-09-01,Medical Pharmacy,9651,debit
+2022-02-13,ATM Withdrawal,3861,debit
+2023-12-04,Uber Ride,7488,debit
+2022-05-10,Medical Consultation,1145,debit
+2022-09-14,Online Course,2919,debit
+2023-10-28,Netflix Subscription,6814,debit
+2022-12-17,Insurance Premium,9476,debit
+2023-02-18,Investment Return,61024,credit
+2022-10-27,Water Bill,5219,debit
+2022-06-14,Mobile Accessories,9903,debit
+2023-04-10,Insurance Premium,1324,debit
+2022-01-10,Insurance Premium,699,debit
+2022-07-15,Phone Recharge,5611,debit
+2023-11-20,Fuel Station,4846,debit
+2022-08-18,Exam Fee,5031,debit
+2023-03-09,Water Bill,136,debit
+2022-07-10,Amazon Shopping,8423,debit
+2022-12-19,Insurance Premium,7774,debit
+2022-01-30,Flipkart Sale,1416,debit
+2022-01-27,ATM Withdrawal,7141,debit
+2023-04-03,Phone Recharge,4947,debit
+2023-12-31,IRCTC Train Booking,5894,debit
+2022-06-29,Cinema Ticket,1162,debit
+2022-03-14,Coworking Space Rent,8785,debit
+2022-06-29,Phone Recharge,872,debit
+2024-01-11,Mutual Fund SIP,1873,debit
+2022-06-10,Tuition Fee,9725,debit
+2022-12-06,Ola Cabs,7726,debit
+2024-02-13,Salary,14921,credit
+2022-09-06,Flipkart Sale,4563,debit
+2022-03-19,Bus Pass Recharge,6899,debit
+2022-02-13,Amusement Park,5089,debit
+2023-10-01,Investment Return,51943,credit
+2023-12-20,Coworking Space Rent,6624,debit
+2023-03-05,YouTube Premium,7486,debit
+2022-07-11,Amazon Prime,7715,debit
+2022-01-02,Cafe Coffee Day,6078,debit
+2023-06-02,Hospital Bill,6163,debit
+2023-08-13,Spotify Subscription,4096,debit
+2023-05-09,Water Bill,3701,debit
+2023-08-30,Exam Fee,3400,debit
+2022-06-05,Amazon Shopping,5906,debit
+2022-01-18,Salary,68684,credit
+2023-08-09,Doctor Visit,6591,debit
+2023-01-31,Online Course,4234,debit
+2023-04-26,Cafe Coffee Day,5326,debit
+2023-06-22,ATM Withdrawal,2887,debit
+2022-08-09,Online Course,5995,debit
+2022-04-20,Amazon Shopping,5094,debit
+2023-11-29,Ola Cabs,3780,debit
+2023-08-14,Fuel Station,330,debit
+2022-02-19,Bonus,28948,credit
+2023-03-11,Medical Consultation,6724,debit
+2023-10-22,Fuel Station,5262,debit
+2022-06-23,Cinema Ticket,610,debit
+2024-03-30,Starbucks Coffee,7660,debit
+2023-05-15,Starbucks Coffee,3351,debit
+2022-12-26,Amusement Park,2612,debit
+2023-03-23,Online Course,5778,debit
+2023-08-11,Credit Card Bill,1128,debit
+2023-01-02,IRCTC Train Booking,1388,debit
+2023-01-02,Spotify Subscription,9213,debit
+2024-01-13,Investment Return,45576,credit
+2024-02-22,Freelance Payment,28555,credit
+2023-05-25,Concert Ticket,5573,debit
+2022-04-04,Cafe Coffee Day,3732,debit
+2023-11-10,Medical Consultation,6672,debit
+2024-03-04,Freelance Payment,40403,credit
+2023-05-14,Bookstore,9435,debit
+2022-04-06,ATM Withdrawal,2971,debit
+2023-01-17,Uber Ride,9799,debit
+2023-12-21,Coworking Space Rent,9613,debit
+2023-07-09,Insurance Premium,7314,debit
+2022-09-16,Hospital Bill,9252,debit
+2022-09-30,Ola Cabs,5936,debit
+2023-11-14,Spotify Subscription,1303,debit
+2023-07-30,Home Cleaning Services,1484,debit
+2024-01-12,Restaurant Bill,6131,debit
+2023-10-16,Mutual Fund SIP,4269,debit
+2023-01-10,Pet Grooming,2276,debit
+2023-09-18,Cafe Coffee Day,5689,debit
+2023-05-13,Electricity Bill,2293,debit
+2024-03-07,Bookstore,9527,debit
+2022-01-15,Gift Purchase,7075,debit
+2023-01-20,Salary,59369,credit
+2022-09-25,Mutual Fund SIP,5386,debit
+2023-11-27,IRCTC Train Booking,6099,debit
+2022-02-15,Concert Ticket,3952,debit
+2022-09-12,Clothing Store,3279,debit
+2022-08-16,Concert Ticket,8707,debit
+2023-01-21,Salary,18200,credit
+2023-04-11,Spotify Subscription,8512,debit
+2023-10-06,ATM Withdrawal,6901,debit
+2022-09-10,Rent Payment,1841,debit
+2023-10-12,Home Cleaning Services,308,debit
+2022-07-31,Home Cleaning Services,3948,debit
+2023-07-31,Restaurant Bill,8130,debit
+2022-07-03,Concert Ticket,8300,debit
+2023-07-15,Coworking Space Rent,4355,debit
+2022-08-15,Spotify Subscription,8712,debit
+2023-06-21,Amusement Park,3975,debit
+2022-11-11,Amusement Park,1810,debit
+2023-12-31,Rent Payment,3902,debit
+2022-04-03,Water Bill,4675,debit
+2023-11-14,Amusement Park,3687,debit
+2024-02-15,Exam Fee,2936,debit
+2022-04-04,Rent Payment,593,debit
+2024-02-21,Online Course,6280,debit
+2023-08-30,Bonus,33434,credit
+2023-05-22,Medical Consultation,3301,debit
+2023-04-08,ATM Withdrawal,2535,debit
+2023-09-23,Cinema Ticket,3172,debit
+2022-03-09,Amusement Park,950,debit
+2024-03-04,Insurance Premium,818,debit
+2023-07-25,Amazon Prime,6881,debit
+2022-05-19,Internet Bill,653,debit
+2024-02-16,Cinema Ticket,4321,debit
+2022-08-10,Insurance Premium,5990,debit
+2022-03-21,Amusement Park,3259,debit
+2024-02-03,Uber Ride,6207,debit
+2022-12-06,IRCTC Train Booking,1633,debit
+2022-03-22,ATM Withdrawal,7058,debit
+2024-03-23,Medical Consultation,1460,debit
+2023-04-19,Fuel Station,9029,debit
+2022-09-28,Bonus,5909,credit
+2024-01-12,Pet Grooming,2131,debit
+2023-06-13,Mobile Accessories,5580,debit
+2023-11-11,Coworking Space Rent,8466,debit
+2024-03-15,Bookstore,8213,debit
+2022-08-21,Cinema Ticket,8651,debit
+2023-11-05,Cinema Ticket,5261,debit
+2023-10-01,Credit Card Bill,4025,debit
+2022-06-19,Bonus,26665,credit
+2022-01-29,Internet Bill,9595,debit
+2024-03-17,Domino's Pizza,9634,debit
+2023-03-16,Amazon Shopping,4090,debit
+2022-11-23,Coworking Space Rent,1512,debit
+2022-05-13,Bookstore,3837,debit
+2022-02-12,Amusement Park,3705,debit
+2023-06-21,Credit Card Bill,5711,debit
+2023-07-06,Loan EMI,2602,debit
+2023-06-20,Clothing Store,4194,debit
+2023-01-27,Doctor Visit,5224,debit
+2024-02-03,Fuel Station,3734,debit
+2023-12-22,Uber Ride,1516,debit
+2023-07-13,Flipkart Sale,4157,debit
+2023-05-22,Ola Cabs,715,debit
+2023-10-13,Pet Vaccination,7601,debit
+2023-02-16,Medical Pharmacy,177,debit
+2022-03-09,Flipkart Sale,7511,debit
+2024-03-23,Mobile Accessories,1898,debit
+2022-04-13,Rent Payment,2272,debit
+2022-12-01,YouTube Premium,8451,debit
+2023-05-01,Flipkart Sale,1250,debit
+2023-11-27,IRCTC Train Booking,9415,debit
+2023-07-25,Loan EMI,7259,debit
+2024-01-31,Medical Pharmacy,2913,debit
+2024-01-12,Pet Grooming,8210,debit
+2023-09-16,Exam Fee,5034,debit
+2022-03-20,Starbucks Coffee,1035,debit
+2023-01-27,Loan EMI,2849,debit
+2023-07-22,Amazon Shopping,7136,debit
+2022-12-12,Mutual Fund SIP,806,debit
+2022-02-10,Amazon Prime,6949,debit
+2023-01-04,Rent Payment,8547,debit
+2022-04-05,Credit Card Bill,9212,debit
+2023-12-08,Insurance Premium,288,debit
+2023-10-31,Cinema Ticket,620,debit
+2022-08-21,Hospital Bill,9743,debit
+2022-09-02,Salary,57846,credit
+2022-11-08,Starbucks Coffee,4728,debit
+2023-12-22,Credit Card Bill,551,debit
+2022-10-10,Investment Return,41060,credit
+2022-12-18,Restaurant Bill,1084,debit
+2022-04-02,Investment Return,9913,credit
+2023-04-11,Amazon Prime,6362,debit
+2023-01-16,Pet Grooming,7549,debit
+2023-10-31,Coworking Space Rent,9222,debit
+2023-09-05,Freelance Payment,16039,credit
+2022-12-15,Tuition Fee,8421,debit
+2022-03-16,Electricity Bill,4160,debit
+2024-01-25,Hospital Bill,235,debit
+2022-05-19,Tuition Fee,1705,debit
+2022-12-29,Pet Vaccination,4037,debit
+2023-11-14,Medical Consultation,6696,debit
+2022-02-27,Bookstore,671,debit
+2023-08-08,Medical Consultation,1645,debit
+2023-04-12,Concert Ticket,9895,debit
+2023-12-16,Electricity Bill,2144,debit
+2022-02-03,YouTube Premium,3248,debit
+2023-01-23,Home Cleaning Services,3869,debit
+2024-01-24,Medical Consultation,6647,debit
+2022-03-10,Clothing Store,360,debit
+2023-09-01,Concert Ticket,7906,debit
+2022-05-28,Concert Ticket,6481,debit
+2023-09-04,Concert Ticket,577,debit
+2023-11-25,Concert Ticket,7542,debit
+2022-06-08,Exam Fee,8754,debit
+2023-07-15,Starbucks Coffee,2472,debit
+2022-09-18,Internet Bill,1571,debit
+2023-07-27,Amazon Prime,8800,debit
+2022-05-20,Bus Pass Recharge,7351,debit
+2022-03-20,Internet Bill,5752,debit
+2022-06-25,Bookstore,9990,debit
+2023-01-29,Mutual Fund SIP,646,debit
+2022-01-27,IRCTC Train Booking,5386,debit
+2022-02-02,Bookstore,7699,debit
+2022-01-19,Rent Payment,5127,debit
+2022-02-05,Electricity Bill,6870,debit
+2022-12-17,Mobile Accessories,8370,debit
+2022-04-28,Amusement Park,5871,debit
+2022-08-22,Concert Ticket,1564,debit
+2022-10-27,Tuition Fee,5573,debit
+2023-02-15,Starbucks Coffee,3147,debit
+2022-10-01,Amazon Shopping,7754,debit
+2022-04-29,Medical Pharmacy,1596,debit
+2024-01-24,Cinema Ticket,6165,debit
+2022-01-20,Coworking Space Rent,4240,debit
+2022-10-20,Credit Card Bill,6875,debit
+2023-11-05,Internet Bill,5290,debit
+2022-11-28,Uber Ride,9532,debit
+2023-10-06,Tuition Fee,3763,debit
+2022-04-15,Hospital Bill,4989,debit
+2023-05-09,Hospital Bill,7531,debit
+2022-04-26,Spotify Subscription,7110,debit
+2023-08-06,Bus Pass Recharge,5446,debit
+2023-05-09,YouTube Premium,9283,debit
+2023-10-15,Loan EMI,6685,debit
+2022-04-10,YouTube Premium,2308,debit
+2022-04-01,Medical Pharmacy,4220,debit
+2023-05-30,Rent Payment,9111,debit
+2023-04-22,Internet Bill,8112,debit
+2022-01-18,Credit Card Bill,6959,debit
+2022-03-01,Cinema Ticket,2020,debit
+2023-05-29,Credit Card Bill,1548,debit
+2023-07-08,Mutual Fund SIP,9683,debit
+2023-01-02,Medical Consultation,8619,debit
+2022-09-14,Medical Pharmacy,9005,debit
+2022-04-25,Loan EMI,4841,debit
+2022-11-19,Online Course,2422,debit
+2023-01-04,Water Bill,5118,debit
+2023-07-26,Spotify Subscription,5173,debit
+2022-05-29,Domino's Pizza,4127,debit
+2022-01-25,Pet Grooming,2524,debit
+2022-12-30,Online Course,9850,debit
+2022-04-24,Rent Payment,1743,debit
+2022-09-19,Medical Consultation,5788,debit
+2023-12-19,Swiggy Food,8141,debit
+2022-09-21,Online Course,7134,debit
+2022-12-17,Credit Card Bill,4707,debit
+2022-08-29,Restaurant Bill,4145,debit
+2023-03-18,Cinema Ticket,7148,debit
+2022-03-16,Water Bill,8349,debit
+2022-11-01,Exam Fee,1870,debit
+2022-10-20,Freelance Payment,68344,credit
+2024-03-15,Rent Payment,3339,debit
+2022-07-15,IRCTC Train Booking,7854,debit
+2022-02-20,Bonus,47745,credit
+2023-01-30,Mutual Fund SIP,7276,debit
+2022-12-08,Pet Vaccination,1312,debit
+2022-07-30,Electricity Bill,8139,debit
+2022-11-07,Fuel Station,7255,debit
+2023-01-15,Hospital Bill,1472,debit
+2024-03-24,Hospital Bill,2415,debit
+2024-03-19,Internet Bill,9254,debit
+2023-08-31,Salary,31596,credit
+2023-04-25,Fuel Station,7303,debit
+2022-12-11,Ola Cabs,9937,debit
+2022-04-22,Bus Pass Recharge,7472,debit
+2022-09-30,Cafe Coffee Day,793,debit
+2022-01-04,Starbucks Coffee,7305,debit
+2023-12-02,Exam Fee,4173,debit
+2023-04-30,Cinema Ticket,6694,debit
+2023-06-28,Amazon Shopping,6482,debit
+2022-07-16,Exam Fee,5612,debit
+2023-12-08,Netflix Subscription,7916,debit
+2022-08-08,Uber Ride,5097,debit
+2023-01-23,Coworking Space Rent,1722,debit
+2023-12-23,Amazon Prime,4384,debit
+2023-07-29,Home Cleaning Services,7956,debit
+2023-06-15,Amusement Park,7420,debit
+2022-12-18,Pet Grooming,587,debit
+2022-02-15,Gift Purchase,2586,debit
+2022-06-12,Cafe Coffee Day,3346,debit
+2022-12-27,Insurance Premium,8603,debit
+2023-03-27,Pet Grooming,9968,debit
+2022-01-05,Freelance Payment,48859,credit
+2022-08-06,Coworking Space Rent,1575,debit
+2022-12-25,Spotify Subscription,6747,debit
+2024-01-15,Spotify Subscription,2992,debit
+2023-02-18,Rent Payment,3681,debit
+2022-01-24,Amazon Prime,5295,debit
+2022-01-09,Hospital Bill,8271,debit
+2022-12-21,Concert Ticket,5577,debit
+2024-03-22,Medical Consultation,6664,debit
+2022-03-27,Amazon Prime,5149,debit
+2022-06-19,Domino's Pizza,7548,debit
+2023-08-02,Netflix Subscription,4436,debit
+2022-08-17,Internet Bill,2367,debit
+2023-12-18,Gift Purchase,2199,debit
+2024-03-06,Medical Consultation,9049,debit
+2024-02-09,Online Course,2154,debit
+2024-03-16,Doctor Visit,6178,debit
+2023-07-18,Netflix Subscription,8590,debit
+2024-01-02,Insurance Premium,6958,debit
+2024-02-25,Insurance Premium,7071,debit
+2023-04-26,Spotify Subscription,1838,debit
+2023-10-03,Netflix Subscription,6631,debit
+2022-05-11,Cinema Ticket,5866,debit
+2023-12-12,Home Cleaning Services,6252,debit
+2023-08-17,Cinema Ticket,5802,debit
+2022-10-07,Starbucks Coffee,2639,debit
+2022-01-20,Cinema Ticket,8779,debit
+2024-03-11,Salary,66015,credit
+2022-08-23,Amusement Park,9028,debit
+2023-04-26,Exam Fee,4888,debit
+2023-11-24,Hospital Bill,1392,debit
+2024-03-04,Salary,57869,credit
+2023-09-10,Medical Consultation,385,debit
+2023-04-20,Phone Recharge,7736,debit
+2023-07-01,Doctor Visit,6782,debit
+2023-02-23,Credit Card Bill,3009,debit
+2024-01-21,Doctor Visit,4537,debit
+2023-12-02,Salary,52075,credit
+2023-11-08,Concert Ticket,5103,debit
+2022-04-02,Pet Grooming,9876,debit
+2022-11-13,Electricity Bill,4134,debit
+2022-05-06,Exam Fee,257,debit
+2023-04-27,Mobile Accessories,6635,debit
+2024-01-05,Fuel Station,735,debit
+2023-10-29,Salary,55710,credit
+2023-05-23,Gift Purchase,2894,debit
+2022-06-22,Spotify Subscription,7471,debit
+2023-12-10,Mobile Accessories,9192,debit
+2022-06-30,Spotify Subscription,7702,debit
+2023-09-12,Online Course,5117,debit
+2023-04-29,Pet Vaccination,5357,debit
+2022-10-30,Bonus,65599,credit
+2022-08-31,Amusement Park,2724,debit
+2024-02-03,Cinema Ticket,3288,debit
+2023-12-20,Concert Ticket,3000,debit
+2023-03-03,YouTube Premium,8677,debit
+2024-02-12,Medical Consultation,9931,debit
+2024-03-18,Netflix Subscription,4117,debit
+2023-01-05,Medical Pharmacy,9991,debit
+2022-12-15,Cinema Ticket,8719,debit
+2022-12-25,Hospital Bill,9865,debit
+2022-06-30,Phone Recharge,711,debit
+2023-03-03,Investment Return,41894,credit
+2023-08-01,Mobile Accessories,4524,debit
+2022-06-01,Uber Ride,1737,debit
+2022-11-14,Investment Return,34236,credit
+2023-07-30,Netflix Subscription,4727,debit
+2022-12-02,Medical Consultation,3601,debit
+2022-01-12,Bus Pass Recharge,335,debit
+2022-12-23,Fuel Station,9772,debit
+2022-10-12,Concert Ticket,673,debit
+2023-08-23,Investment Return,46896,credit
+2022-07-14,Exam Fee,7041,debit
+2023-07-17,Cinema Ticket,9927,debit
+2023-08-20,Electricity Bill,5508,debit
+2023-06-13,Bookstore,2820,debit
+2022-11-19,Cafe Coffee Day,7064,debit
+2023-05-06,Home Cleaning Services,9789,debit
+2023-08-11,Clothing Store,5172,debit
+2023-02-15,Concert Ticket,1908,debit
+2023-05-11,Amazon Prime,5612,debit
+2023-03-24,Cafe Coffee Day,5512,debit
+2022-10-09,Insurance Premium,6632,debit
+2022-02-02,Swiggy Food,7594,debit
+2023-05-18,Starbucks Coffee,2285,debit
+2022-09-30,Online Course,2658,debit
+2022-06-30,Amazon Prime,196,debit
+2022-09-01,Coworking Space Rent,826,debit
+2023-12-23,Concert Ticket,4743,debit
+2022-06-07,Rent Payment,4623,debit
+2022-09-05,Amusement Park,9181,debit
+2023-09-06,Pet Grooming,5210,debit
+2024-03-06,Starbucks Coffee,7484,debit
+2022-05-28,Coworking Space Rent,8815,debit
+2023-06-05,Online Course,8780,debit
+2022-11-04,IRCTC Train Booking,7771,debit
+2023-09-07,Freelance Payment,12353,credit
+2022-11-04,Insurance Premium,5525,debit
+2023-12-20,Online Course,881,debit
+2023-09-28,Restaurant Bill,4947,debit
+2022-04-07,Spotify Subscription,1964,debit
+2023-05-26,Water Bill,5611,debit
+2023-11-18,Mobile Accessories,4162,debit
+2024-01-06,Online Course,6740,debit
+2022-01-01,Ola Cabs,5380,debit
+2024-01-15,Bookstore,6384,debit
+2022-10-29,Investment Return,50668,credit
+2024-02-07,Investment Return,54826,credit
+2023-08-09,Pet Grooming,3102,debit
+2022-07-23,Domino's Pizza,5601,debit
+2022-03-02,Gift Purchase,345,debit
+2023-05-11,Online Course,1106,debit
+2024-02-10,Coworking Space Rent,7240,debit
+2022-05-05,Swiggy Food,5133,debit
+2023-07-16,Salary,18189,credit
+2023-06-01,Flipkart Sale,9483,debit
+2022-02-04,Mobile Accessories,3263,debit
+2023-11-25,YouTube Premium,5718,debit
+2022-06-19,Coworking Space Rent,8972,debit
+2023-02-19,Bus Pass Recharge,7015,debit
+2022-12-15,Credit Card Bill,3962,debit
+2023-12-01,Insurance Premium,1177,debit
+2023-03-23,Rent Payment,7706,debit
+2022-10-20,Insurance Premium,3050,debit
+2023-02-03,YouTube Premium,9971,debit
+2022-10-14,Cinema Ticket,9014,debit
+2022-02-17,Tuition Fee,8063,debit
+2023-08-03,Bookstore,4288,debit
+2022-08-21,Insurance Premium,1131,debit
+2022-10-25,Mobile Accessories,9150,debit
+2022-12-01,Bookstore,846,debit
+2022-12-23,Swiggy Food,2385,debit
+2024-02-03,Exam Fee,9357,debit
+2023-07-09,Zomato Order,6269,debit
+2022-12-10,Insurance Premium,8358,debit
+2022-09-28,Amazon Prime,8191,debit
+2022-06-17,Electricity Bill,1563,debit
+2022-02-11,Loan EMI,7181,debit
+2023-06-17,ATM Withdrawal,6797,debit
+2023-06-10,Credit Card Bill,4448,debit
+2023-09-18,Electricity Bill,9790,debit
+2023-10-23,Credit Card Bill,1101,debit
+2024-01-01,Loan EMI,8996,debit
+2022-12-18,Swiggy Food,745,debit
+2024-02-13,Gift Purchase,5073,debit
+2023-06-08,YouTube Premium,8828,debit
+2022-05-03,Cinema Ticket,8597,debit
+2023-03-08,Hospital Bill,9043,debit
+2022-11-21,Bonus,63079,credit
+2022-11-27,IRCTC Train Booking,5284,debit
+2022-10-03,Domino's Pizza,8184,debit
+2022-07-27,Exam Fee,4463,debit
+2022-03-17,Medical Pharmacy,4220,debit
+2023-02-28,Rent Payment,1760,debit
+2022-04-12,Gift Purchase,187,debit
+2023-10-14,Coworking Space Rent,1151,debit
+2022-05-03,Bonus,44495,credit
+2022-06-01,Cinema Ticket,538,debit
+2023-12-07,Spotify Subscription,9128,debit
+2023-05-20,Restaurant Bill,2298,debit
+2023-04-08,Exam Fee,2407,debit
+2023-03-13,Water Bill,6479,debit
+2022-06-28,Insurance Premium,1066,debit
+2022-05-15,Mobile Accessories,7380,debit
+2022-08-03,Tuition Fee,5261,debit
+2022-04-29,Online Course,7845,debit
+2024-03-23,Uber Ride,9007,debit
+2023-02-28,Water Bill,4346,debit
+2022-10-19,Internet Bill,891,debit
+2023-06-18,Ola Cabs,8959,debit
+2023-05-16,Amazon Shopping,4926,debit
+2022-12-22,Mobile Accessories,3078,debit
+2022-10-29,Loan EMI,9918,debit
+2023-03-23,Zomato Order,340,debit
+2022-12-02,Gift Purchase,7443,debit
+2023-11-22,Tuition Fee,8781,debit
+2022-08-20,Cafe Coffee Day,4881,debit
+2023-03-11,Amusement Park,8348,debit
+2023-01-07,Investment Return,18545,credit
+2023-08-12,Fuel Station,7238,debit
+2023-09-25,Uber Ride,5470,debit
+2022-05-11,Credit Card Bill,548,debit
+2023-04-30,Coworking Space Rent,3227,debit
+2023-03-15,Pet Vaccination,8097,debit
+2024-03-31,Home Cleaning Services,7384,debit
+2023-02-18,Domino's Pizza,2614,debit
+2024-03-17,Fuel Station,1729,debit
+2023-09-18,Clothing Store,7554,debit
+2022-08-09,Uber Ride,8440,debit
+2023-08-14,Concert Ticket,1207,debit
+2023-12-06,Amusement Park,284,debit
+2022-09-12,Spotify Subscription,2002,debit
+2023-01-17,Ola Cabs,2934,debit
+2023-02-18,Flipkart Sale,5622,debit
+2023-07-30,Coworking Space Rent,2330,debit
+2024-01-23,Hospital Bill,4320,debit
+2022-04-27,Freelance Payment,32790,credit
+2023-11-20,Home Cleaning Services,3476,debit
+2022-01-31,Water Bill,8830,debit
+2024-03-01,Pet Grooming,2735,debit
+2023-02-06,Concert Ticket,9219,debit
+2022-09-27,Online Course,5387,debit
+2023-09-08,ATM Withdrawal,7692,debit
+2023-11-04,Freelance Payment,63752,credit
+2024-03-29,Rent Payment,696,debit
+2024-03-03,Phone Recharge,9714,debit
+2022-03-20,Electricity Bill,3301,debit
+2022-04-13,Ola Cabs,4841,debit
+2022-08-05,Doctor Visit,6298,debit
+2022-07-03,Mutual Fund SIP,4372,debit
+2023-08-01,Ola Cabs,4231,debit
+2023-10-30,Insurance Premium,6721,debit
+2023-08-29,Phone Recharge,6445,debit
+2022-09-02,Coworking Space Rent,8617,debit
+2023-09-09,Uber Ride,8465,debit
+2023-07-01,Online Course,2088,debit
+2023-04-02,Pet Grooming,2564,debit
+2023-08-29,Investment Return,58510,credit
+2023-03-30,Pet Grooming,4021,debit
+2024-01-26,Amusement Park,1267,debit
+2024-02-13,Hospital Bill,5655,debit
+2023-01-31,Domino's Pizza,4713,debit
+2023-08-09,Tuition Fee,9851,debit
+2024-02-05,Exam Fee,2727,debit
+2022-10-18,Insurance Premium,9852,debit
+2022-06-11,Amusement Park,217,debit
+2022-01-03,Cinema Ticket,6241,debit
+2024-01-17,Restaurant Bill,9564,debit
+2023-09-29,Freelance Payment,62960,credit
+2022-12-14,Water Bill,8463,debit
+2024-01-17,Uber Ride,3446,debit
+2023-05-11,Electricity Bill,4245,debit
+2022-02-28,Starbucks Coffee,3210,debit
+2023-01-20,Amazon Prime,6412,debit
+2023-03-19,Online Course,2584,debit
+2023-06-04,Amusement Park,3016,debit
+2022-01-11,Medical Pharmacy,9009,debit
+2022-07-21,Exam Fee,7397,debit
+2022-08-19,Home Cleaning Services,210,debit
+2022-12-17,Home Cleaning Services,5026,debit
+2022-09-13,Mutual Fund SIP,9429,debit
+2024-01-09,Bookstore,3224,debit
+2022-09-30,Medical Pharmacy,496,debit
+2023-10-01,Rent Payment,8731,debit
+2024-01-15,Swiggy Food,9405,debit
+2023-03-31,Medical Consultation,5729,debit
+2023-07-25,Bookstore,6819,debit
+2022-08-17,YouTube Premium,2489,debit
+2023-01-22,Exam Fee,2316,debit
+2022-11-22,Insurance Premium,2575,debit
+2022-07-10,Electricity Bill,5097,debit
+2022-09-12,Amazon Prime,4702,debit
+2024-01-14,Mobile Accessories,5095,debit
+2022-10-01,YouTube Premium,4028,debit
+2022-01-01,Online Course,7035,debit
+2022-11-16,Swiggy Food,6949,debit
+2022-09-12,Spotify Subscription,8156,debit
+2023-01-02,Starbucks Coffee,4316,debit
+2023-04-07,Water Bill,9403,debit
+2023-05-03,Flipkart Sale,3412,debit
+2022-11-15,Amazon Prime,851,debit
+2024-03-07,Rent Payment,584,debit
+2023-09-18,Zomato Order,5567,debit
+2022-09-22,IRCTC Train Booking,7802,debit
+2023-07-31,Coworking Space Rent,5626,debit
+2022-01-31,Coworking Space Rent,9808,debit
+2024-02-28,Exam Fee,6048,debit
+2022-04-27,Internet Bill,2630,debit
+2022-05-23,Concert Ticket,1609,debit
+2023-06-19,Hospital Bill,7754,debit
+2023-06-18,Internet Bill,760,debit
+2022-02-03,Coworking Space Rent,549,debit
+2022-06-08,Coworking Space Rent,9013,debit
+2022-08-16,Clothing Store,270,debit
+2023-10-25,Online Course,6417,debit
+2023-03-05,Restaurant Bill,4298,debit
+2023-03-20,Freelance Payment,11172,credit
+2023-06-02,Exam Fee,1273,debit
+2022-05-07,Pet Grooming,4102,debit
+2022-11-19,Pet Vaccination,8428,debit
+2024-02-17,Electricity Bill,9047,debit
+2023-10-09,Clothing Store,1897,debit
+2024-01-31,Swiggy Food,4400,debit
+2024-03-31,Online Course,931,debit
+2022-07-20,Mutual Fund SIP,1876,debit
+2022-01-24,Internet Bill,9949,debit
+2024-01-22,Medical Pharmacy,1665,debit
+2022-11-29,Medical Consultation,3320,debit
+2022-03-16,Insurance Premium,9167,debit
+2023-03-03,Pet Grooming,6280,debit
+2023-06-01,Gift Purchase,6873,debit
+2023-04-08,Swiggy Food,223,debit
+2022-08-13,Rent Payment,3924,debit
+2022-12-17,Fuel Station,8261,debit
+2022-04-28,Bus Pass Recharge,8756,debit
+2022-11-14,Online Course,3240,debit
+2022-04-21,Bus Pass Recharge,5342,debit
+2022-12-07,Ola Cabs,1957,debit
+2023-09-07,Netflix Subscription,4934,debit
+2023-09-22,Cinema Ticket,1717,debit
+2023-06-19,Electricity Bill,3074,debit
+2023-02-13,Electricity Bill,2102,debit
+2022-12-27,Online Course,4764,debit
+2024-03-18,Zomato Order,1125,debit
+2022-01-14,Tuition Fee,1927,debit
+2023-06-13,Salary,9847,credit
+2022-08-25,Netflix Subscription,9091,debit
+2023-07-06,Amazon Prime,6128,debit
+2023-06-20,Mutual Fund SIP,3592,debit
+2023-07-01,Credit Card Bill,2906,debit
+2023-04-18,Electricity Bill,7829,debit
+2023-11-21,YouTube Premium,4673,debit
+2022-10-22,IRCTC Train Booking,2559,debit
+2023-11-06,Tuition Fee,8159,debit
+2022-04-13,Credit Card Bill,5014,debit
+2023-01-08,ATM Withdrawal,1793,debit
+2022-10-03,Gift Purchase,9291,debit
+2023-10-10,Spotify Subscription,5336,debit
+2023-09-20,Bonus,20824,credit
+2022-06-15,ATM Withdrawal,1486,debit
+2022-04-19,Doctor Visit,7507,debit
+2022-08-25,Water Bill,3608,debit
+2023-07-16,Cafe Coffee Day,660,debit
+2022-02-07,Electricity Bill,9558,debit
+2023-02-12,Flipkart Sale,1343,debit
+2022-09-11,Bookstore,9946,debit
+2023-09-20,Hospital Bill,4435,debit
+2022-03-30,Mobile Accessories,4635,debit
+2022-05-10,Clothing Store,8319,debit
+2023-12-20,Electricity Bill,5827,debit
+2023-05-01,Bonus,50015,credit
+2024-03-16,ATM Withdrawal,3590,debit
+2023-12-12,Rent Payment,8561,debit
+2022-05-16,Cafe Coffee Day,6446,debit
+2022-07-03,Tuition Fee,4517,debit
+2022-01-13,Online Course,3202,debit
+2022-05-24,Rent Payment,9026,debit
+2022-02-22,Credit Card Bill,1864,debit
+2022-07-06,Clothing Store,7025,debit
+2024-03-06,Doctor Visit,7945,debit
+2023-12-28,Ola Cabs,1083,debit
+2023-06-30,Amusement Park,3356,debit
+2022-01-22,Pet Grooming,8723,debit
+2022-12-12,Credit Card Bill,1475,debit
+2022-09-22,Tuition Fee,2970,debit
+2023-07-04,Bookstore,9690,debit
+2023-05-10,Uber Ride,1867,debit
+2023-05-21,Rent Payment,4040,debit
+2022-02-01,Insurance Premium,1088,debit
+2022-06-25,Insurance Premium,7464,debit
+2023-03-07,Bonus,66744,credit
+2023-02-15,Clothing Store,9923,debit
+2022-12-24,Amazon Shopping,5519,debit
+2022-11-05,Cinema Ticket,4309,debit
+2023-03-14,Insurance Premium,9764,debit
+2023-04-28,Hospital Bill,9501,debit
+2022-08-16,ATM Withdrawal,2529,debit
+2022-03-02,Domino's Pizza,8177,debit
+2023-02-13,Amusement Park,7746,debit
+2022-10-21,Rent Payment,4273,debit
+2022-10-14,Restaurant Bill,2974,debit
+2023-05-21,Rent Payment,7474,debit
+2023-09-25,Loan EMI,1067,debit
+2022-12-21,Ola Cabs,9500,debit
+2024-02-29,Bookstore,6920,debit
+2023-07-05,Coworking Space Rent,5771,debit
+2023-08-08,Hospital Bill,5534,debit
+2024-01-31,Investment Return,28500,credit
+2023-04-19,Pet Grooming,6152,debit
+2022-04-25,Gift Purchase,3601,debit
+2024-01-05,Doctor Visit,7991,debit
+2023-10-21,Flipkart Sale,1881,debit
+2022-02-03,Online Course,3671,debit
+2023-08-02,Starbucks Coffee,9772,debit
+2022-09-22,Internet Bill,6998,debit
+2024-02-28,Fuel Station,8746,debit
+2023-07-14,Phone Recharge,3837,debit
+2022-10-29,Mutual Fund SIP,3422,debit
+2022-08-31,Ola Cabs,172,debit
+2024-01-29,Amazon Shopping,2667,debit
+2024-02-10,Amazon Shopping,1578,debit
+2024-01-24,Hospital Bill,8708,debit
+2023-06-05,Home Cleaning Services,6323,debit
+2022-05-25,Insurance Premium,6218,debit
+2023-07-29,Medical Pharmacy,3456,debit
+2024-03-26,Water Bill,1116,debit
+2023-11-18,Rent Payment,2594,debit
+2024-03-20,IRCTC Train Booking,1721,debit
+2022-02-25,Bonus,51509,credit
+2023-06-23,Freelance Payment,12282,credit
+2022-02-15,Cinema Ticket,306,debit
+2023-02-11,Pet Vaccination,7524,debit
+2022-12-31,Concert Ticket,9147,debit
+2023-09-28,Credit Card Bill,7463,debit
+2022-02-08,Cinema Ticket,9407,debit
+2023-02-12,Bookstore,7478,debit
+2023-12-13,Medical Pharmacy,227,debit
+2022-01-17,Pet Vaccination,801,debit
+2023-07-01,Online Course,151,debit
+2022-04-24,Pet Vaccination,3284,debit
+2023-06-06,Ola Cabs,4561,debit
+2022-12-11,Investment Return,31191,credit
+2022-05-09,Medical Pharmacy,6088,debit
+2023-02-14,Medical Consultation,1279,debit
+2023-08-30,Domino's Pizza,7114,debit
+2022-11-20,Domino's Pizza,5852,debit
+2023-03-31,Pet Vaccination,8925,debit
+2022-02-07,Tuition Fee,8303,debit
+2022-08-19,Cinema Ticket,5198,debit
+2022-03-28,Concert Ticket,905,debit
+2022-07-20,Bookstore,4769,debit
+2023-08-25,Ola Cabs,8915,debit
+2023-05-08,Clothing Store,4708,debit
+2023-04-18,Doctor Visit,4636,debit
+2023-02-27,Exam Fee,2227,debit
+2022-11-24,Bonus,14847,credit
+2022-04-14,Netflix Subscription,5440,debit
+2023-01-04,Uber Ride,5062,debit
+2022-09-22,Clothing Store,9643,debit
+2022-07-03,YouTube Premium,3138,debit
+2022-10-13,Investment Return,59920,credit
+2023-11-20,Bookstore,808,debit
+2024-02-10,Cinema Ticket,2185,debit
+2023-03-03,Netflix Subscription,1740,debit
+2022-05-23,Concert Ticket,5379,debit
+2023-11-04,Water Bill,4813,debit
+2023-02-01,Mobile Accessories,566,debit
+2023-05-14,Tuition Fee,6322,debit
+2023-01-12,Bus Pass Recharge,4326,debit
+2023-01-07,Uber Ride,2251,debit
+2024-02-18,Cinema Ticket,331,debit
+2023-09-07,Exam Fee,3858,debit
+2022-08-06,Netflix Subscription,9387,debit
+2024-03-30,Cinema Ticket,7603,debit
+2022-10-11,Credit Card Bill,2704,debit
+2023-10-18,Fuel Station,2159,debit
+2023-07-29,Domino's Pizza,1915,debit
+2023-01-21,Doctor Visit,5581,debit
+2023-07-24,Hospital Bill,6963,debit
+2023-03-05,Credit Card Bill,8717,debit
+2022-10-26,Bonus,8394,credit
+2023-06-19,Spotify Subscription,162,debit
+2023-08-03,IRCTC Train Booking,8643,debit
+2023-09-13,Medical Pharmacy,2099,debit
+2022-06-07,Swiggy Food,2538,debit
+2024-01-10,Clothing Store,3321,debit
+2023-06-01,Bonus,18826,credit
+2022-06-26,Pet Vaccination,8942,debit
+2023-06-30,Mobile Accessories,391,debit
+2022-10-27,Internet Bill,2029,debit
+2022-02-08,Bus Pass Recharge,1306,debit
+2022-06-23,Starbucks Coffee,8431,debit
+2024-03-08,Bus Pass Recharge,4606,debit
+2023-09-26,Salary,36090,credit
+2024-03-22,Amazon Prime,9979,debit
+2022-08-21,Uber Ride,5202,debit
+2022-12-14,Hospital Bill,5547,debit
+2022-10-10,Internet Bill,6560,debit
+2024-02-04,Concert Ticket,4655,debit
+2024-02-13,Electricity Bill,5980,debit
+2022-01-22,Netflix Subscription,3555,debit
+2022-07-21,Mobile Accessories,8990,debit
+2023-08-30,Rent Payment,1588,debit
+2022-02-10,IRCTC Train Booking,9270,debit
+2022-05-16,Hospital Bill,147,debit
+2023-04-14,Cafe Coffee Day,7728,debit
+2023-08-09,Insurance Premium,1016,debit
+2023-04-03,Restaurant Bill,5571,debit
+2022-12-23,Hospital Bill,9243,debit
+2024-01-16,Tuition Fee,8285,debit
+2024-03-08,Credit Card Bill,1799,debit
+2022-12-17,Amusement Park,9042,debit
+2022-04-26,Internet Bill,5923,debit
+2023-07-17,Water Bill,2194,debit
+2023-07-17,Investment Return,6406,credit
+2023-12-14,Salary,8913,credit
+2024-02-17,Gift Purchase,4490,debit
+2023-05-01,Investment Return,44832,credit
+2023-02-11,Investment Return,9607,credit
+2022-03-19,Electricity Bill,4246,debit
+2023-03-01,Coworking Space Rent,4877,debit
+2022-01-15,Restaurant Bill,6392,debit
+2023-02-03,Bonus,53686,credit
+2023-05-07,Amazon Prime,5892,debit
+2022-05-02,Gift Purchase,1447,debit
+2023-06-20,Coworking Space Rent,4239,debit
+2023-02-15,Exam Fee,8739,debit
+2023-12-27,Home Cleaning Services,2788,debit
+2023-11-23,Hospital Bill,5467,debit
+2022-04-27,IRCTC Train Booking,6680,debit
+2023-06-12,Fuel Station,5711,debit
+2022-07-06,Insurance Premium,7353,debit
+2023-03-01,Phone Recharge,5869,debit
+2024-01-13,Restaurant Bill,3632,debit
+2022-01-21,Gift Purchase,5090,debit
+2022-04-15,Pet Vaccination,7577,debit
+2023-05-07,Electricity Bill,380,debit
+2023-05-22,Concert Ticket,5524,debit
+2022-07-12,Pet Vaccination,1783,debit
+2024-01-15,Coworking Space Rent,5409,debit
+2024-02-08,Cafe Coffee Day,3648,debit
+2023-07-22,Exam Fee,9391,debit
+2023-10-10,Amusement Park,8303,debit
+2023-08-13,Tuition Fee,7782,debit
+2022-07-05,Gift Purchase,5169,debit
+2022-04-20,Internet Bill,9427,debit
+2022-09-18,Online Course,9203,debit
+2022-01-05,Internet Bill,3706,debit
+2023-09-20,Cinema Ticket,3173,debit
+2023-07-28,Doctor Visit,3411,debit
+2023-09-07,Fuel Station,5520,debit
+2023-10-05,Fuel Station,9626,debit
+2023-01-08,Starbucks Coffee,358,debit
+2024-03-18,Loan EMI,5929,debit
+2023-10-06,Bus Pass Recharge,5422,debit
+2024-02-16,Credit Card Bill,7847,debit
+2023-03-29,Amazon Prime,8876,debit
+2022-02-24,Fuel Station,3168,debit
+2022-05-11,Home Cleaning Services,1116,debit
+2023-03-21,YouTube Premium,4041,debit
+2022-04-21,Medical Consultation,6726,debit
+2023-09-28,Tuition Fee,840,debit
+2022-10-24,Zomato Order,4135,debit
+2023-12-11,Bonus,57088,credit
+2024-03-23,YouTube Premium,7274,debit
+2022-03-01,Netflix Subscription,3017,debit
+2023-10-17,Coworking Space Rent,7797,debit
+2022-06-26,Rent Payment,7420,debit
+2023-04-19,Cinema Ticket,3326,debit
+2022-01-30,Freelance Payment,49056,credit
+2024-03-20,Restaurant Bill,9774,debit
+2022-01-16,Tuition Fee,2524,debit
+2022-03-18,Online Course,2293,debit
+2023-05-12,Electricity Bill,4369,debit
+2023-07-04,Cinema Ticket,7784,debit
+2023-08-07,Pet Vaccination,954,debit
+2024-02-15,Tuition Fee,9794,debit
+2023-12-12,Exam Fee,4527,debit
+2022-09-25,Tuition Fee,5478,debit
+2022-12-14,Insurance Premium,3012,debit
+2022-04-18,Mobile Accessories,3583,debit
+2023-07-24,Freelance Payment,39123,credit
+2024-03-20,Pet Vaccination,8600,debit
+2024-03-14,Amusement Park,377,debit
+2023-06-28,Online Course,5855,debit
+2022-07-02,Rent Payment,6796,debit
+2023-07-06,Rent Payment,1324,debit
+2022-04-06,Bus Pass Recharge,685,debit
+2022-02-14,YouTube Premium,2352,debit
+2022-03-19,Restaurant Bill,4866,debit
+2023-04-01,Internet Bill,4212,debit
+2023-09-09,Investment Return,35854,credit
+2022-07-18,Coworking Space Rent,8567,debit
+2024-02-23,Concert Ticket,7288,debit
+2023-11-25,Tuition Fee,2136,debit
+2022-09-28,Online Course,4934,debit
+2022-04-02,Cafe Coffee Day,514,debit
+2023-10-16,Freelance Payment,60041,credit
+2022-12-20,Freelance Payment,31591,credit
+2023-10-03,Amazon Prime,3193,debit
+2023-04-06,Netflix Subscription,3103,debit
+2022-07-18,Tuition Fee,2453,debit
+2022-12-08,Cinema Ticket,2836,debit
+2023-01-07,Mutual Fund SIP,9373,debit
+2022-11-13,Coworking Space Rent,7535,debit
+2022-09-25,Uber Ride,7648,debit
+2022-10-24,Netflix Subscription,3127,debit
+2024-02-08,Tuition Fee,6424,debit
+2022-12-26,YouTube Premium,3659,debit
+2022-10-06,Amazon Prime,998,debit
+2022-09-28,Hospital Bill,149,debit
+2023-12-22,Medical Pharmacy,7208,debit
+2023-10-28,Mobile Accessories,6399,debit
+2023-12-24,Online Course,2313,debit
+2023-10-20,Uber Ride,9998,debit
+2023-01-09,Medical Consultation,332,debit
+2022-03-11,Clothing Store,4281,debit
+2022-09-27,Doctor Visit,4600,debit
+2023-09-12,IRCTC Train Booking,8348,debit
+2023-01-28,Clothing Store,3996,debit
+2022-08-26,Investment Return,45609,credit
+2022-04-11,Rent Payment,1477,debit
+2023-11-18,Medical Pharmacy,8517,debit
+2023-10-25,Concert Ticket,9689,debit
+2022-11-14,Online Course,8607,debit
+2022-04-20,Credit Card Bill,6834,debit
+2022-12-01,Amazon Prime,3957,debit
+2023-04-21,ATM Withdrawal,4055,debit
+2024-03-27,Doctor Visit,9239,debit
+2022-03-23,IRCTC Train Booking,4357,debit
+2024-01-25,Bonus,11222,credit
+2023-06-07,Rent Payment,3894,debit
+2022-01-31,ATM Withdrawal,1773,debit
+2022-06-11,Clothing Store,5904,debit
+2023-12-29,Electricity Bill,1549,debit
+2022-04-27,Phone Recharge,6295,debit
+2022-03-17,Coworking Space Rent,2661,debit
+2024-02-04,Coworking Space Rent,5502,debit
+2023-08-19,Bookstore,4356,debit
+2023-05-11,Freelance Payment,48051,credit
+2023-05-21,Tuition Fee,788,debit
+2024-01-27,YouTube Premium,3577,debit
+2023-08-17,Phone Recharge,3672,debit
+2023-02-09,Clothing Store,2863,debit
+2023-08-01,Bookstore,2398,debit
+2022-10-31,Water Bill,1413,debit
+2023-10-05,Credit Card Bill,1406,debit
+2023-10-15,Phone Recharge,9285,debit
+2023-05-24,Investment Return,48966,credit
+2023-02-27,Medical Consultation,6705,debit
+2024-02-16,IRCTC Train Booking,5169,debit
+2022-03-13,Cinema Ticket,8178,debit
+2023-09-12,Medical Pharmacy,9451,debit
+2022-09-13,Netflix Subscription,3066,debit
+2022-08-05,Freelance Payment,35409,credit
+2023-08-14,Home Cleaning Services,2786,debit
+2023-12-15,Coworking Space Rent,2764,debit
+2022-05-13,Clothing Store,4556,debit
+2022-12-23,Pet Vaccination,6693,debit
+2023-02-07,Home Cleaning Services,5969,debit
+2023-10-31,Loan EMI,3169,debit
+2022-01-06,Credit Card Bill,4503,debit
+2022-04-19,Electricity Bill,2782,debit
+2024-01-12,Cinema Ticket,9087,debit
+2023-04-06,Freelance Payment,67575,credit
+2022-08-27,Loan EMI,9074,debit
+2023-03-20,Flipkart Sale,9507,debit
+2023-08-29,Hospital Bill,2180,debit
+2022-12-09,Mutual Fund SIP,4368,debit
+2023-02-12,Phone Recharge,1437,debit
+2023-03-12,Rent Payment,4013,debit
+2022-11-08,Electricity Bill,738,debit
+2022-09-17,Doctor Visit,2700,debit
+2022-06-11,Hospital Bill,119,debit
+2022-04-07,Tuition Fee,8894,debit
+2023-04-26,Online Course,5467,debit
+2023-11-15,Loan EMI,7916,debit
+2023-12-01,Spotify Subscription,243,debit
+2023-07-08,Uber Ride,6539,debit
+2023-03-19,Uber Ride,2776,debit
+2022-01-13,IRCTC Train Booking,5946,debit
+2022-10-30,ATM Withdrawal,1237,debit
+2023-09-28,Exam Fee,4772,debit
+2023-11-19,Pet Vaccination,4920,debit
+2023-01-07,Medical Pharmacy,5289,debit
+2022-04-29,YouTube Premium,8485,debit
+2023-03-30,Bonus,27855,credit
+2022-10-24,Rent Payment,3942,debit
+2023-09-08,Rent Payment,9593,debit
+2024-02-03,Starbucks Coffee,6452,debit
+2022-08-21,Internet Bill,9175,debit
+2023-03-14,Clothing Store,9849,debit
+2022-07-30,Bonus,11473,credit
+2024-03-20,Online Course,5715,debit
+2023-11-26,Flipkart Sale,2441,debit
+2022-01-15,Pet Grooming,6666,debit
+2023-11-17,Bookstore,6585,debit
+2023-06-16,Bus Pass Recharge,2318,debit
+2022-11-15,Fuel Station,1666,debit
+2023-09-23,Starbucks Coffee,5770,debit
+2023-11-18,Salary,42980,credit
+2023-07-24,Amazon Prime,5633,debit
+2023-01-26,Bonus,11523,credit
+2023-12-09,Cinema Ticket,9595,debit
+2022-05-02,Insurance Premium,6579,debit
+2023-05-08,Swiggy Food,8163,debit
+2023-07-27,Amusement Park,5720,debit
+2023-08-30,Investment Return,53432,credit
+2023-02-15,Cinema Ticket,3785,debit
+2023-08-23,Investment Return,50511,credit
+2022-08-16,Swiggy Food,4394,debit
+2022-06-21,Loan EMI,125,debit
+2022-03-07,Investment Return,65752,credit
+2022-02-19,Mutual Fund SIP,8267,debit
+2023-08-10,Home Cleaning Services,9942,debit
+2022-05-16,Medical Consultation,9936,debit
+2022-10-11,Rent Payment,7387,debit
+2023-02-01,Bus Pass Recharge,1013,debit
+2022-05-16,Flipkart Sale,187,debit
+2023-07-11,Rent Payment,7780,debit
+2022-07-06,Cinema Ticket,2950,debit
+2023-03-03,Loan EMI,5944,debit
+2023-01-21,Fuel Station,6829,debit
+2023-12-08,YouTube Premium,6999,debit
+2023-12-14,Salary,11338,credit
+2023-12-13,Exam Fee,9349,debit
+2022-09-25,Concert Ticket,2293,debit
+2023-04-21,Mutual Fund SIP,428,debit
+2023-01-12,Amusement Park,9801,debit
+2023-03-07,Tuition Fee,3242,debit
+2023-10-15,Domino's Pizza,5837,debit
+2022-05-16,Coworking Space Rent,5393,debit
+2023-01-30,Coworking Space Rent,8343,debit
+2022-05-12,Gift Purchase,3141,debit
+2023-08-28,Uber Ride,8020,debit
+2023-09-07,Salary,69503,credit
+2022-09-08,Water Bill,2011,debit
+2022-10-18,Zomato Order,6542,debit
+2023-11-17,Cinema Ticket,3364,debit
+2024-02-10,Phone Recharge,5644,debit
+2023-08-11,Bonus,31206,credit
+2022-11-07,Flipkart Sale,9666,debit
+2023-12-07,Concert Ticket,1479,debit
+2023-03-15,Pet Vaccination,7822,debit
+2023-10-05,Tuition Fee,4769,debit
+2022-06-08,Medical Consultation,8519,debit
+2024-03-15,Bonus,22590,credit
+2023-05-03,Cafe Coffee Day,7690,debit
+2023-08-02,Bookstore,8514,debit
+2023-05-28,Mobile Accessories,4061,debit
+2022-09-07,Freelance Payment,57633,credit
+2023-03-16,Amusement Park,1959,debit
+2022-07-15,Spotify Subscription,7503,debit
+2023-10-08,Exam Fee,1666,debit
+2023-07-29,Clothing Store,9943,debit
+2023-08-25,Domino's Pizza,598,debit
+2022-01-25,Water Bill,4995,debit
+2023-04-23,Mobile Accessories,7230,debit
+2023-03-29,Uber Ride,2999,debit
+2023-06-11,Online Course,5178,debit
+2022-03-31,Fuel Station,5430,debit
+2023-11-11,Investment Return,50865,credit
+2023-11-03,Cinema Ticket,6226,debit
+2023-08-16,Online Course,1213,debit
+2022-05-13,Exam Fee,8091,debit
+2023-12-12,Water Bill,2113,debit
+2023-09-24,Restaurant Bill,9414,debit
+2022-05-04,Bus Pass Recharge,6820,debit
+2024-01-23,Exam Fee,8912,debit
+2022-05-25,Tuition Fee,534,debit
+2024-02-28,Ola Cabs,8216,debit
+2022-11-03,Online Course,5394,debit
+2022-02-20,Pet Vaccination,5845,debit
+2023-08-17,Concert Ticket,6770,debit
+2024-02-09,Fuel Station,2285,debit
+2022-11-08,Home Cleaning Services,3775,debit
+2022-03-11,Salary,21147,credit
+2024-02-11,Pet Vaccination,6540,debit
+2024-02-02,Amazon Prime,1409,debit
+2022-10-01,Uber Ride,1184,debit
+2022-05-10,Rent Payment,2769,debit
+2023-01-23,Hospital Bill,158,debit
+2023-12-25,Amazon Prime,2535,debit
+2023-09-22,Netflix Subscription,378,debit
+2023-07-09,Internet Bill,1745,debit
+2022-01-11,Coworking Space Rent,1498,debit
+2022-05-25,Internet Bill,1517,debit
+2022-11-29,Clothing Store,4150,debit
+2024-02-02,Doctor Visit,3263,debit
+2022-03-06,Exam Fee,2782,debit
+2022-01-13,Mobile Accessories,2799,debit
+2022-03-10,Hospital Bill,3878,debit
+2022-01-16,Online Course,1685,debit
+2022-09-20,Concert Ticket,3220,debit
+2024-01-06,Gift Purchase,2616,debit
+2022-07-09,Home Cleaning Services,2539,debit
+2023-10-05,Doctor Visit,420,debit
+2023-05-20,Phone Recharge,1617,debit
+2023-04-25,Mutual Fund SIP,8133,debit
+2024-01-17,Mobile Accessories,5413,debit
+2022-09-27,Bus Pass Recharge,3529,debit
+2022-12-22,Amusement Park,1380,debit
+2023-11-06,ATM Withdrawal,9120,debit
+2022-05-20,Medical Pharmacy,5198,debit
+2022-09-06,Salary,8313,credit
+2023-06-03,Electricity Bill,8768,debit
+2022-07-04,Coworking Space Rent,5778,debit
+2023-03-25,IRCTC Train Booking,4125,debit
+2022-02-28,Internet Bill,2787,debit
+2023-06-07,Electricity Bill,5174,debit
+2022-08-05,YouTube Premium,9742,debit
+2022-12-03,Amazon Prime,1628,debit
+2024-03-25,Swiggy Food,981,debit
+2023-05-02,Mutual Fund SIP,6247,debit
+2022-01-03,Bonus,63445,credit
+2022-04-14,Netflix Subscription,8429,debit
+2023-12-20,Gift Purchase,312,debit
+2023-08-30,Uber Ride,6093,debit
+2022-09-23,Hospital Bill,4449,debit
+2023-02-16,Concert Ticket,7076,debit
+2023-06-12,Cinema Ticket,9209,debit
+2023-12-18,Bookstore,2271,debit
+2023-12-25,Amazon Prime,8893,debit
+2022-02-27,Salary,28712,credit
+2022-10-21,YouTube Premium,4403,debit
+2023-05-25,Bonus,64113,credit
+2023-09-30,Insurance Premium,9702,debit
+2022-11-21,ATM Withdrawal,7702,debit
+2022-03-07,Insurance Premium,3528,debit
+2023-09-14,Home Cleaning Services,7035,debit
+2022-12-08,Bonus,65587,credit
+2023-05-22,Medical Pharmacy,7501,debit
+2023-07-17,Zomato Order,1493,debit
+2022-05-10,Internet Bill,4246,debit
+2022-01-05,Freelance Payment,40487,credit
+2024-03-24,Uber Ride,858,debit
+2023-10-18,Doctor Visit,9236,debit
+2023-03-17,Bonus,28833,credit
+2024-03-01,Flipkart Sale,8299,debit
+2022-12-03,Amusement Park,3720,debit
+2024-03-17,Exam Fee,5855,debit
+2023-04-18,Salary,9506,credit
+2023-03-10,Insurance Premium,6078,debit
+2022-05-13,Netflix Subscription,4772,debit
+2024-02-02,Credit Card Bill,9060,debit
+2023-09-08,Medical Consultation,2531,debit
+2022-03-09,Fuel Station,7864,debit
+2022-01-09,Swiggy Food,9405,debit
+2022-05-09,Fuel Station,1295,debit
+2024-03-05,Amazon Prime,1519,debit
+2022-05-09,Investment Return,40904,credit
+2022-12-22,Bonus,61207,credit
+2023-09-13,Starbucks Coffee,3523,debit
+2022-02-20,Online Course,5424,debit
+2023-06-20,Salary,14559,credit
+2022-06-02,Amazon Shopping,2763,debit
+2022-09-15,Amazon Prime,9123,debit
+2022-10-06,Swiggy Food,9183,debit
+2023-11-21,Restaurant Bill,9523,debit
+2022-09-24,Domino's Pizza,8464,debit
+2023-10-31,Coworking Space Rent,4152,debit
+2022-07-28,Electricity Bill,8585,debit
+2022-11-09,Spotify Subscription,8088,debit
+2023-07-28,Coworking Space Rent,713,debit
+2024-01-04,Concert Ticket,3886,debit
+2024-01-29,Swiggy Food,8250,debit
+2023-12-08,Spotify Subscription,4531,debit
+2024-01-27,Electricity Bill,1837,debit
+2022-08-06,Coworking Space Rent,1177,debit
+2022-02-05,Cinema Ticket,5510,debit
+2023-05-19,Exam Fee,5030,debit
+2023-06-11,Home Cleaning Services,4735,debit
+2022-11-13,Credit Card Bill,6385,debit
+2022-12-09,Bus Pass Recharge,9396,debit
+2023-12-25,Salary,50623,credit
+2022-11-18,Tuition Fee,6869,debit
+2022-07-23,Medical Pharmacy,3611,debit
+2023-06-10,Mutual Fund SIP,9574,debit
+2022-03-09,Medical Consultation,1342,debit
+2023-09-12,Coworking Space Rent,6877,debit
+2024-01-19,Restaurant Bill,7189,debit
+2024-02-07,Ola Cabs,6006,debit
+2022-11-26,Pet Grooming,753,debit
+2023-10-06,Pet Vaccination,1416,debit
+2022-07-05,Mutual Fund SIP,9130,debit
+2023-06-24,Cinema Ticket,8926,debit
+2023-06-14,Flipkart Sale,5712,debit
+2023-10-13,Amazon Prime,4186,debit
+2022-08-02,Concert Ticket,6655,debit
+2022-12-23,Amazon Prime,7359,debit
+2022-09-30,Online Course,1775,debit
+2024-02-20,Amusement Park,2815,debit
+2023-01-05,YouTube Premium,4211,debit
+2024-03-26,Bookstore,7600,debit
+2022-08-24,Mutual Fund SIP,3599,debit
+2024-01-01,Mutual Fund SIP,2679,debit
+2024-03-21,Hospital Bill,289,debit
+2022-01-26,YouTube Premium,1418,debit
+2023-07-06,Bookstore,8999,debit
+2023-01-29,Water Bill,4051,debit
+2023-09-15,Tuition Fee,1908,debit
+2022-08-07,Concert Ticket,2529,debit
+2023-12-13,Rent Payment,6940,debit
+2022-06-12,ATM Withdrawal,5646,debit
+2023-11-06,Exam Fee,2830,debit
+2022-02-23,ATM Withdrawal,9730,debit
+2022-07-07,Coworking Space Rent,9101,debit
+2022-05-02,Flipkart Sale,501,debit
+2023-12-01,Phone Recharge,2167,debit
+2022-04-23,Coworking Space Rent,9815,debit
+2024-01-27,Credit Card Bill,840,debit
+2022-03-18,Coworking Space Rent,852,debit
+2023-02-17,Rent Payment,6295,debit
+2024-02-01,Starbucks Coffee,9839,debit
+2022-07-06,Coworking Space Rent,4403,debit
+2022-10-24,Freelance Payment,14598,credit
+2024-02-08,Domino's Pizza,9050,debit
+2023-05-09,Mutual Fund SIP,5226,debit
+2022-10-14,Online Course,4499,debit
+2024-01-15,Pet Grooming,1607,debit
+2023-02-28,Coworking Space Rent,217,debit
+2024-03-01,Hospital Bill,3991,debit
+2022-10-08,Exam Fee,6151,debit
+2023-07-28,YouTube Premium,8530,debit
+2022-04-27,Credit Card Bill,1591,debit
+2022-10-25,Loan EMI,1735,debit
+2022-06-12,IRCTC Train Booking,2427,debit
+2023-07-17,Amusement Park,6639,debit
+2023-01-15,Electricity Bill,3099,debit
+2022-12-08,Insurance Premium,4155,debit
+2023-09-16,Netflix Subscription,8427,debit
+2022-01-13,Bus Pass Recharge,9411,debit
+2022-04-07,Freelance Payment,31720,credit
+2022-09-18,Amazon Shopping,1695,debit
+2024-02-05,Tuition Fee,4380,debit
+2023-03-28,Concert Ticket,2837,debit
+2024-02-09,Tuition Fee,9954,debit
+2023-03-18,Insurance Premium,501,debit
+2022-03-11,Bookstore,9460,debit
+2023-08-03,YouTube Premium,9869,debit
+2024-02-02,Hospital Bill,8182,debit
+2024-03-24,Phone Recharge,8858,debit
+2022-05-20,Internet Bill,8650,debit
+2023-12-31,Rent Payment,6321,debit
+2023-08-07,Fuel Station,3913,debit
+2023-09-28,Bonus,66510,credit
+2023-11-30,Water Bill,3910,debit
+2023-11-23,Online Course,7620,debit
+2022-05-08,Amusement Park,3840,debit
+2023-03-20,Clothing Store,2799,debit
+2022-01-18,Bus Pass Recharge,4810,debit
+2023-12-17,Credit Card Bill,7519,debit
+2023-01-08,Tuition Fee,4050,debit
+2022-03-20,Medical Consultation,8601,debit
+2024-01-01,Restaurant Bill,5393,debit
+2023-05-30,Phone Recharge,717,debit
+2023-06-27,IRCTC Train Booking,6345,debit
+2022-03-07,Restaurant Bill,1685,debit
+2022-03-14,Coworking Space Rent,1785,debit
+2023-04-23,Swiggy Food,3342,debit
+2024-01-02,Phone Recharge,2747,debit
+2023-04-08,Phone Recharge,7425,debit
+2024-01-13,Rent Payment,7957,debit
+2022-12-27,Pet Vaccination,850,debit
+2023-03-01,Uber Ride,8746,debit
+2022-01-10,Bookstore,853,debit
+2023-01-18,Bookstore,113,debit
+2022-04-18,Bonus,26808,credit
+2022-10-04,Netflix Subscription,4552,debit
+2022-06-20,Medical Consultation,1982,debit
+2023-10-09,Tuition Fee,3365,debit
+2024-02-29,Pet Grooming,1027,debit
+2023-07-27,Rent Payment,2324,debit
+2023-10-25,Concert Ticket,2999,debit
+2022-02-17,Electricity Bill,872,debit
+2022-12-30,Ola Cabs,4045,debit
+2024-01-21,Mobile Accessories,1631,debit
+2022-06-16,Gift Purchase,7585,debit
+2023-04-02,Spotify Subscription,123,debit
+2022-04-12,Medical Consultation,6725,debit
+2022-02-11,Concert Ticket,7327,debit
+2023-02-28,Ola Cabs,3971,debit
+2022-11-16,IRCTC Train Booking,9596,debit
+2023-10-31,Phone Recharge,7868,debit
+2022-03-30,Uber Ride,3923,debit
+2023-04-27,Water Bill,4789,debit
+2022-07-21,Flipkart Sale,7730,debit
+2023-04-01,Water Bill,3470,debit
+2024-03-22,Concert Ticket,6667,debit
+2023-03-06,Rent Payment,5239,debit
+2022-05-24,ATM Withdrawal,1276,debit
+2022-12-07,Coworking Space Rent,8318,debit
+2024-02-17,Amazon Shopping,9502,debit
+2024-01-27,Hospital Bill,2303,debit
+2023-04-10,Exam Fee,7468,debit
+2022-07-28,Credit Card Bill,686,debit
+2023-12-29,Coworking Space Rent,918,debit
+2023-11-16,Investment Return,52587,credit
+2023-06-02,Freelance Payment,6783,credit
+2023-03-11,Mutual Fund SIP,5680,debit
+2022-08-21,ATM Withdrawal,3616,debit
+2022-04-01,Doctor Visit,6380,debit
+2023-03-26,Medical Consultation,5701,debit
+2022-08-21,Amazon Prime,6464,debit
+2022-08-27,Concert Ticket,4588,debit
+2024-01-06,Coworking Space Rent,3547,debit
+2022-03-02,Bookstore,6067,debit
+2023-06-19,Loan EMI,1664,debit
+2022-11-10,Medical Consultation,5354,debit
+2024-03-07,Online Course,2359,debit
+2023-05-06,Cinema Ticket,9188,debit
+2022-11-12,Medical Consultation,4359,debit
+2022-04-20,Internet Bill,3494,debit
+2022-05-03,Cinema Ticket,2325,debit
+2023-12-30,ATM Withdrawal,2606,debit
+2023-01-31,Ola Cabs,7416,debit
+2022-05-19,Starbucks Coffee,9116,debit
+2022-03-02,Exam Fee,9691,debit
+2024-03-23,Amazon Shopping,9181,debit
+2023-09-14,Uber Ride,9230,debit
+2022-12-28,Hospital Bill,568,debit
+2022-06-27,Concert Ticket,4895,debit
+2022-12-03,ATM Withdrawal,5236,debit
+2023-07-02,Amazon Shopping,1312,debit
+2023-07-17,Gift Purchase,4278,debit
+2022-05-09,Uber Ride,7532,debit
+2022-12-18,Bonus,59706,credit
+2023-10-16,Coworking Space Rent,4462,debit
+2023-05-14,Mutual Fund SIP,9083,debit
+2023-09-30,Starbucks Coffee,8686,debit
+2022-05-15,Rent Payment,600,debit
+2022-01-25,Online Course,7356,debit
+2023-06-03,Starbucks Coffee,9614,debit
+2023-10-09,Coworking Space Rent,6741,debit
+2022-05-19,Phone Recharge,7482,debit
+2022-02-18,Credit Card Bill,8615,debit
+2023-07-26,Bus Pass Recharge,4631,debit
+2023-03-17,Tuition Fee,1422,debit
+2022-11-24,Concert Ticket,1365,debit
+2023-07-27,Restaurant Bill,7010,debit
+2022-07-19,Concert Ticket,6460,debit
+2024-02-12,YouTube Premium,3001,debit
+2023-05-09,Restaurant Bill,8763,debit
+2023-01-07,Fuel Station,2725,debit
+2024-01-11,Mobile Accessories,5035,debit
+2023-10-05,Gift Purchase,1238,debit
+2022-03-21,Mutual Fund SIP,8745,debit
+2022-09-08,Bookstore,3427,debit
+2022-11-07,Online Course,3987,debit
+2023-11-22,Domino's Pizza,2933,debit
+2023-10-26,Exam Fee,3399,debit
+2022-08-26,Starbucks Coffee,6064,debit
+2022-09-24,Amazon Prime,286,debit
+2024-03-24,Doctor Visit,2625,debit
+2022-02-11,Hospital Bill,2022,debit
+2024-02-05,Zomato Order,4530,debit
+2023-07-15,Clothing Store,4388,debit
+2022-06-11,Swiggy Food,4880,debit
+2023-12-07,Online Course,415,debit
+2024-02-20,Bookstore,7604,debit
+2022-03-11,Medical Pharmacy,2381,debit
+2022-02-16,Amusement Park,1643,debit
+2023-12-09,Home Cleaning Services,3264,debit
+2023-11-12,Bookstore,6247,debit
+2024-02-11,Salary,23889,credit
+2022-11-07,Amusement Park,7481,debit
+2022-01-06,Amazon Shopping,9302,debit
+2024-02-03,Home Cleaning Services,2587,debit
+2022-10-12,Exam Fee,3830,debit
+2022-04-30,Netflix Subscription,2578,debit
+2024-03-24,Loan EMI,6000,debit
+2023-03-04,Salary,38800,credit
+2022-11-12,Tuition Fee,8313,debit
+2022-01-10,Amazon Shopping,3013,debit
+2023-09-28,Amazon Shopping,9416,debit
+2023-12-19,Tuition Fee,684,debit
+2022-01-12,Amusement Park,4870,debit
+2023-12-11,Credit Card Bill,8973,debit
+2022-01-22,Home Cleaning Services,7281,debit
+2022-06-22,Freelance Payment,55277,credit
+2022-01-29,Home Cleaning Services,7854,debit
+2022-12-18,Fuel Station,1124,debit
+2023-05-07,Home Cleaning Services,5618,debit
+2022-04-09,Mutual Fund SIP,8051,debit
+2023-10-19,Freelance Payment,36871,credit
+2023-10-03,Restaurant Bill,4757,debit
+2022-04-23,Credit Card Bill,9621,debit
+2022-03-02,Online Course,2557,debit
+2022-12-21,Credit Card Bill,9657,debit
+2023-03-03,Amazon Prime,4849,debit
+2023-10-25,Bookstore,2732,debit
+2022-04-01,Freelance Payment,53609,credit
+2023-06-21,Rent Payment,6159,debit
+2022-10-03,Home Cleaning Services,1184,debit
+2023-07-10,Pet Vaccination,4536,debit
+2023-08-13,ATM Withdrawal,6514,debit
+2022-01-12,Netflix Subscription,4749,debit
+2022-07-11,Freelance Payment,13020,credit
+2022-04-18,Cinema Ticket,5552,debit
+2023-03-24,Flipkart Sale,276,debit
+2023-06-11,Bonus,50327,credit
+2023-05-05,Online Course,5610,debit
+2024-02-05,Hospital Bill,9544,debit
+2022-07-09,Netflix Subscription,7783,debit
+2022-12-11,Water Bill,2853,debit
+2022-04-21,Amazon Prime,3610,debit
+2023-06-15,Medical Consultation,4655,debit
+2023-09-15,Medical Pharmacy,288,debit
+2023-07-21,Water Bill,3615,debit
+2022-09-24,Bus Pass Recharge,471,debit
+2023-07-02,Zomato Order,2014,debit
+2023-10-18,Water Bill,9862,debit
+2022-04-09,Doctor Visit,4984,debit
+2022-01-22,Loan EMI,5469,debit
+2022-12-01,Electricity Bill,8187,debit
+2024-03-08,Salary,45450,credit
+2023-06-08,Amusement Park,9395,debit
+2022-12-12,Tuition Fee,5713,debit
+2022-02-19,Hospital Bill,2320,debit
+2023-10-21,Salary,42184,credit
+2023-01-20,Flipkart Sale,6287,debit
+2024-01-31,Ola Cabs,5776,debit
+2022-07-31,Bonus,62274,credit
+2022-01-29,Bonus,61568,credit
+2022-11-02,Cinema Ticket,4098,debit
+2022-10-22,Home Cleaning Services,2199,debit
+2023-10-04,Rent Payment,8253,debit
+2023-12-03,Mutual Fund SIP,5127,debit
+2022-12-13,Hospital Bill,6218,debit
+2023-01-16,IRCTC Train Booking,4746,debit
+2024-01-26,Uber Ride,4625,debit
+2023-08-16,Uber Ride,2816,debit
+2023-05-10,Insurance Premium,3525,debit
+2022-08-15,Pet Grooming,5092,debit
+2024-01-31,Internet Bill,1603,debit
+2023-05-01,Cinema Ticket,2283,debit
