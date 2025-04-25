@@ -20,7 +20,7 @@
 2. Required Installation after React setup is done :
    a. npm install axios
 3. Create a proxy of flask server URL in "package.json"
-4. Set all the files provided in the repository for Backend
+4. Set all the files provided in the repository for Frontend
 5. To run the React Server : npm start
 
 
